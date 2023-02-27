@@ -40,6 +40,16 @@ Las investigaciones paleontológicas han clasificado a los dinosaurios en dos cl
 
 Los primeros incluyen a herbívoros de cuatro patas y el cuello largo como el brachiosaurus y el diplodocus, pero también reúne a los carnívoros de dos patas como el Tyrannosaurus rex o el Velociraptor.
 
+El Triceratops pertenece a la familia Ornisthischia. Incluye también a los Stegosaurus, Iguanodontes o Ankylosaurus. De la misma forma perteneces a los Ceratopsianos. Todos se caracterizaron por su su placa en la nuca, por su alimentación herbívora, por ser cuadrúpedos y la mayoría además poseía cuernos.
+
+Las especies más conocidas son el Triceratops horridus y el Triceratops prorsus, ambos pertenecientes a los Ceratopsidae .
+
+## ¿Cuándo vivió el Triceratops?
+
+Estos dinosaurios vivieron durante la Era Mesozoica, que se divide en los períodos Triásico, Jurásico y Cretácico. En este caso habitaron durante el Cretácico Superior,hace 66 millones de años en el período Maastrichtiano.
+
+Desaparecieron a causa de la Gran Extinción Masiva de Dinosaurios que ocurrió 66 millones de años. Fue una de las mortandades masivas de especies animales ocurridas en los último 550 millones de años en la Tierra, que tiene una existencia de 4600 millones de años.
+
 ![image02](./assets/image02.png)
 ![image03](./assets/image03.png)
 ![image04](./assets/image04.png)
