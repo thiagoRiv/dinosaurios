@@ -68,9 +68,36 @@ Su tricornio era robusto y sus extremidades eran fuertes, con las patas delanter
 
 ![image02](./assets/image02.png)
 
+©️ EvaK - Creative Commons
+
 ## Peso, tamaños y velocidad
 
 El triceratops podía medir hasta 9 metros de largo y su volumen corporal oscilaba entre las 5 & 10 toneladas. Su altura era de 3 metros y los cuernos sobre su sus ojos podían medir más de 1 metros de largo.
 
+El tricornio era el dinosaurio es el segundo más grande de su familia biológica. El único representante que que posiblemente era aún más grade era el Eotriceratops, del que sólo se ha hallada un cráneo hasta el momento.
+
+Los especialistas estiman que su velocidad de galope era de unos 32 kilómetros por hora. Esto es comparable a la velocidad de un rinoceronte que puede llegar a los 40 kilómetros por hora.
+
+No obstante su velocidad de marcha era posiblemente más lenta. A modo de comparación los saurópodos de cuello largo como el braquiosaurios tenían una velocidad de 2 a 4 kilómetros por hora.
+
+## Estilo de vida y dieta
+
+El Triceratops era herbívoro, algo que se deduce por su pico, su mandíbula y la posición de su cabeza. Se cree que arrancaba helechos y plantas herbáceas del suelo y que las cortaba con los dientes para poder comerlas.
+
+ES posible que también consumiera palmeras o cícadas y que presionara con el peso de su cuerpo para derribarlas y llegar a estas. Sus dientes estaban dispuestos verticalmente uno tras otro e una fila densa para que un diente pudiera seguir inmediatamente si el otro se dañaba. Cada pieza tenía de tres a cinco dientes de reemplazo.
+
 ![image03](./assets/image03.png)
+
+©️ Alina Zienowicz - Creative Commons
+
+## Esperanza de vida
+
+Los científicos piensan que los grandes saurópodos como el Brachiosaurus habrían vivido entre 50 y 120 años. Los ejemplares más pequeños como el Triceratops o algunos carnívoros probablemente vivieran un promedio de 40 años.
+
+Este dinosaurio se compara con frecuencia con el rinoceronte debido a su estatura y a sus cuernos. Un adulto puede vivir hasta 50 años dependiendo de la especie. Por eso se considera que el dinosaurio podría haber llegado también a esa edad. Aunque no hay una evidencia concreta que lo compruebe.
+
+## La polémica sobre el Triceratops y el Torosaurus
+
+En el siglo XIX Othniel Marsh dio con el Triceratops y también con el Torosaurus. Tenían leves diferencias. La gorguera del primero era corta y robusta, mientras que la del segundo era plana, elevada y poseía grandes aberturas.
+
 ![image04](./assets/image04.png)
