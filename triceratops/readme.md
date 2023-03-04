@@ -104,14 +104,34 @@ Fuera de estas características y de algunas otras peculiaridades menores del cr
 
 Esto motivó un estudio de John Scanella y Jack Horner quienes revisaron más de 50 especies de Triceratops hallados en América del Norte. Notaron que lo que parecían especímenes maduros podrían estar aún en estado de desarrollo.
 
-La clave era que carecían de hueso denso y maduro que cavría esperar en un animal desarrollado. Esta forma de ósea madura si estaba presenta en el cuerno de los Torosaurus Esto los ubicaba como ejemplares adultos.
+La clave era que carecían de hueso denso y maduro que cabría esperar en un animal desarrollado. Esta forma de ósea madura si estaba presenta en el cuerno de los Torosaurus Esto los ubicaba como ejemplares adultos.
 
-La tesis de Scanella y Horner explicaría el hecho de que no se encontaron torosaurus juveniles. O más bien explica por qué fueron encontrados despuéns de todo, pero se los asignó incorrectamente a los Triceratops adultos.
+La tesis de Scanella y Horner explicaría el hecho de que no se encontraron torosaurus juveniles. O más bien explica por qué fueron encontrados después de todo, pero se los asignó incorrectamente a los Triceratops adultos.
 
-También especularoncon la posibilidad de que Nedoceratopsfuesen idénticos a los Triceratops. En ese caso representaría aun Triceratops juvenil y a un torosaurus putativo.
+También especularon con la posibilidad de que Nedoceratops fuesen idénticos a los Triceratops. En ese caso representaría aun Triceratops juvenil y a un torosaurus putativo.
 
 ## Conclusión
 
-Actualmente se cuestiona la creenciade que un Torosaurus fuese un Triceratops adulto.No hay
+Actualmente se cuestiona la creencia de que un Torosaurus fuese un Triceratops adulto. No hay evidencia de una transición o de características craneales consistentes entre ambos ejemplares.
+
+Nicholas Longrich y Daniel Field de la Universidad de Yale examinaron 35 especímenes atribuidos a las dos especies. Su conclusión fue que ambos eran especies diferentes.
+
+Para esto examinaron las características del cráneo y emplearon un programa de computadora para clasificarlos desde el más para clasificarlos desde el más joven al más antiguo. Descubrieron que hay cráneos tanto de Torosaurus jóvenes como de Triceratops viejos.
+
+Este hecho no puede conciliar la unidad de ambas especies. Además había inconsistencia al tratar relacionarla identidad de Triceratops y de Torosaurus
+
+Las adaptaciones morfológicas que tendría que tendría que sufrir un triceratops para convertirse en un Torosaurio tendría que incluir huesos adicionales dentro de la gorguera, que no estaban allí hasta entonces.
 
 ![image04](./assets/image04.png)
+
+©️ Nicholas R. Longrich, Daniel J. Field - Creative Commons
+
+## ¿Cómo se extinguieron los Triceratops?
+
+Como sucedió con la mayor parte de los dinosaurios, los Triceratops desaparecieron 66 millones de años atrás en el límite Cretácico - Paleógeno. Sólo los que antecedieron a las aves sobrevivieron.
+
+Se piensa que este final también se pudo deber al impacto de un meteorito, a varias erupciones volcánicas, a cambios climáticos o al descenso del mar.
+
+Esto terminó con el 50% de las especies animales y con el 20% de las familias o grupos terrestres.
+
+El Triceratops vivió en la Tierra durante los últimos 3 millones de años antes de la extinción masiva, prácticamente al mismo tiempo del Tyrannosaurus rex. No obstante, hubo dinosaurios que vagaron por nuestro planeta durante mucho más tiempo como el Spinosaurus que probablemente vivió 19 millones de años, hasta la Gran Mortandad.
