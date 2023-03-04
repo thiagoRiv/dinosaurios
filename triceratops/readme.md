@@ -100,4 +100,18 @@ Este dinosaurio se compara con frecuencia con el rinoceronte debido a su estatur
 
 En el siglo XIX Othniel Marsh dio con el Triceratops y también con el Torosaurus. Tenían leves diferencias. La gorguera del primero era corta y robusta, mientras que la del segundo era plana, elevada y poseía grandes aberturas.
 
+Fuera de estas características y de algunas otras peculiaridades menores del cráneo, era casi imposible distinguir entre ambas especies.
+
+Esto motivó un estudio de John Scanella y Jack Horner quienes revisaron más de 50 especies de Triceratops hallados en América del Norte. Notaron que lo que parecían especímenes maduros podrían estar aún en estado de desarrollo.
+
+La clave era que carecían de hueso denso y maduro que cavría esperar en un animal desarrollado. Esta forma de ósea madura si estaba presenta en el cuerno de los Torosaurus Esto los ubicaba como ejemplares adultos.
+
+La tesis de Scanella y Horner explicaría el hecho de que no se encontaron torosaurus juveniles. O más bien explica por qué fueron encontrados despuéns de todo, pero se los asignó incorrectamente a los Triceratops adultos.
+
+También especularoncon la posibilidad de que Nedoceratopsfuesen idénticos a los Triceratops. En ese caso representaría aun Triceratops juvenil y a un torosaurus putativo.
+
+## Conclusión
+
+Actualmente se cuestiona la creenciade que un Torosaurus fuese un Triceratops adulto.No hay
+
 ![image04](./assets/image04.png)
