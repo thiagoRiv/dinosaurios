@@ -38,11 +38,33 @@ El Spinosaurus aegyptiacus vivió desde los 113 a los 94 millones de años a.c. 
 
 ## ¿Cómo era el hábitat del Spinosaurus?
 
-Los paleontólogos aún no se han puesto de acuerdo sobre el hábitat del Spinosaurus. No obstante, se supone que vivió en una región de marismas en lo que ahora es el norte de África. El primer esqueleto fue hallado en 1912, cerca del Oasis Bahariyya de Egipto. en lo que ahora es el norte de África. El primer esqueleto fue hallado en 1912, cerca del Oasis Bahariyya de Egipto.
+Los paleontólogos aún no se han puesto de acuerdo sobre el hábitat del Spinosaurus. No obstante, se supone que vivió en una región de marismas en lo que ahora es el norte de África. El primer esqueleto fue hallado en 1912, cerca del Oasis Bahariyya de Egipto. En lo que ahora es el norte de África. El primer esqueleto fue hallado en 1912, cerca del Oasis Bahariyya de Egipto.
+
+El Spinosaurus existió allí junto con otros carnívoros de tamaño similar como el _Carcharondontosaurus_, que significa _lagarto de dientes afilados_. También cohabitó con herbívoros de cuellos largo como _Titanosaurio_, _Paralititan_ y _Aegyptosaurus_.
+
+De la misma forma convivió en el mismo hábitat del cocodrilo Stomatosuchus de 10 metros de largo y con el Celacanto de 3,5m de largo. Sus fósiles se han encontrado en Marruecos, Níger, Túnez y Argelia. Su hábitat principal fue lo que hoy conocemos como África.
 
 | Esqueleto de `Spinosaurus aegyptiacus` |
 | -------------------------------------- |
 | ![image03](./assets/image03.png)       |
+
+## Esperanza de vida del Spinosaurus
+
+Aún no hay un consejo sobre la esperanza de vida del Spinosaurus. Pero se estima que si un T-rex podía vivir un promedio de 30 años, se piensa que esta especie posiblemente haya vivido durante u lapso de tiempo similar, Haya debido a sus características comunes.
+
+## características físicas y postura
+
+La características particular del Spinosaurus es su vela dorsal. Estaba compuesto de una estructura espinosa alargada en la espalda que se conectaba a la piel. Eran extensiones de las vértebras dorsales, Que a menudo sobresalían como protuberancias en los dinosaurios.
+
+Aún no se cuál era la función de esta vela. Se cree que sirvió para que se comunicaran con sus congéneres o como recurso para regular la temperatura corporal.
+
+Su centro de gravedad se ubicaba más adelante que el del T-rex. Se supone que el Spinosaurus se movía sobre sus cuatro patas alternativamente, algo que usaba para remar y propulsarse en el agua.
+
+De la misma forma es posible que tuviera dedos palmeados en las pata traseras. Como en todo terópodo, las patas traseras eran más poderosas que las delanteras. Su cola flexible le era útil para desplazarse a través de las corrientes acuáticas.
+
+## Adaptaciones para la caza
+
+El Spinosaurus poseía fosas nasales sobre el cráneo lo que les permitían respirar aun cuando sus cabezas se encontraban sumergidas. De manera similar a los cocodrilos los huesos en la punta del hocico poseían hoyuelos.
 
 | Cráneo de `Spinosaurus`          |
 | -------------------------------- |
