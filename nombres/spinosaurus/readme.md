@@ -66,6 +66,26 @@ De la misma forma es posible que tuviera dedos palmeados en las pata traseras. C
 
 El Spinosaurus poseía fosas nasales sobre el cráneo lo que les permitían respirar aun cuando sus cabezas se encontraban sumergidas. De manera similar a los cocodrilos los huesos en la punta del hocico poseían hoyuelos.
 
+En los reptiles modernos estos pequeños órganos sensoriales registran la presión en el agua y entran en acción cuando una presa en el agua y entran en acción cuando una presa potencial se mueve. Los nervios transmiten la señal al cerebro,lo que ayuda a localizar presas en aguas turbias. Es posible que estos dinosaurios hubiesen tenido órganos sensoriales similares.
+
+Los dientes inclinados en la parte delantera del hocico se engranaron con tanta fuerza que un pez resbaladizo no podía escapar. Las garras curvas en sus dedos tampoco permitían el escape de su comida.
+
+Su pelvis era mucho más pequeña que la de otros dinosaurios depredadores, además de que sus muslos eran cortos y musculosos. Recuerdan a las aletas traseras de los lobos marinos que son útiles para remar vigorosamente en el agua.
+
+No obstante podría haberles servido para ir en al tierra a buen ritmo para alcanzar la misma velocidad que puede desplegar un ser humano.
+
+Los huesos de los grandes dinosaurios depredadores eran en su mayoría huecos para ahorrar peso. Pero en el Spinosaurus esto era todo lo contrario, ya que necesitaba que fuesen macizos para bucear con facilidad.
+
+## Sobre sus espinas
+
+Los largos dedos de los pies y las garras planas del dinosaurio son comparables a las aves acuáticas, que caminaban con seguridad sobre superficies con sus pies grandes, incluso en suelos fangosos. O tal vez servían como remos haciendo uso de dedos palmeados.
+
+No obstante, los investigadores no pudieron encontrar evidencia de tales pieles en los fósiles antiguos.
+
+Las vértebras de la coal del dinosaurio estaban apenas conectadas. Estos permitía que la misma se moviera de forma ondulaba, como la de los cocodrilos.
+
+Por eso concluyeron que el Spinosaurus aegyptiacus ya estaba bien adaptado a la vida de un cazador acuático. Sus espinas de un metro de largo que sobresalían en sus vértebras no parecían encajar con sus características.
+
 | Cráneo de `Spinosaurus`          |
 | -------------------------------- |
 | ![image04](./assets/image04.png) |
