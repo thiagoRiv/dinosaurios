@@ -86,10 +86,32 @@ Las vértebras de la coal del dinosaurio estaban apenas conectadas. Estos permit
 
 Por eso concluyeron que el Spinosaurus aegyptiacus ya estaba bien adaptado a la vida de un cazador acuático. Sus espinas de un metro de largo que sobresalían en sus vértebras no parecían encajar con sus características.
 
+Sospecharon que estos huesos cubiertos de piel se mantuviera a flote como una vela y, como si fuesen joyas visibles en al lejanía, podrían haber atraído al sexo opuesto o advertido a los rivales sobre su presencia.
+
+## Peso y tamaño
+
+Este ejemplar se considera como el dinosaurio depredador más grande jamás descubierto hasta la actualidad. SE calcula que medía 4,5 metros de alto, y de 16 a 18 metros de largo. Además pesaba entre 9 y 12 toneladas.
+
+En algunas casos se piensa que rondaba las 7 y 9 toneladas. Su vela dorsal y us cráneo soló tenían cada uno alrededor de 1,7 metros de largo.
+
 | Cráneo de `Spinosaurus`          |
 | -------------------------------- |
 | ![image04](./assets/image04.png) |
 
+## Estilo de vida y dieta
+
+Si bien era carnívoro, vivía y cazaba en el agua, por lo que su dieta era mayormente piscívora. En su menú estaba el pez Onchopristis, actualmente extinto, Que era similar a un pez sierra.
+
+Poseía dientes largos y puntiagudos, ideales para atrapar piezas escurridizas. Esto da cuenta de que su fuente de alimento principal era el pescado. Sus virtudes se combinaban con su hocico estrecho que era similar al de un cocodrilo, lo que era de gran utilidad para morder peces en el agua.
+
+Sus garras y brazo no eran grandes en relación con el resto de su cuerpo. No obstante eran más grandes de los que poseía el T-rex. Les servían para agarrar el pescado capturan en el momento de comerlo. Sus fosas nasales orientadas hacia arriba indicaban que sabía nadar.
+
+Además del pescado también consumía carne en general. Esto se comprobó cuando cuando se encontró un diente Spinosaurus cercenado en un pterosaurio. Asimismo en su pariente cercano el Baryonyx se halló en su tracto digestivo tanto resto de pescado como de carne de otros animales.
+
 | `Spinosaurus` cazaba en el agua  |
 | -------------------------------- |
 | ![image05](./assets/image05.png) |
+
+## Comportamiento de caza y velocidad
+
+El Spinosaurus probablemente disfrutó ingiriendo peces y pterosaurios que pasaban volando por su territorio, que tal vez le disputaban a los peces como presa. Eventualmente cazaba en la tierra cuando se le presentaba la oportunidad.
