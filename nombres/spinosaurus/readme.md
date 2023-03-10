@@ -115,3 +115,23 @@ Además del pescado también consumía carne en general. Esto se comprobó cuand
 ## Comportamiento de caza y velocidad
 
 El Spinosaurus probablemente disfrutó ingiriendo peces y pterosaurios que pasaban volando por su territorio, que tal vez le disputaban a los peces como presa. Eventualmente cazaba en la tierra cuando se le presentaba la oportunidad.
+
+Para atrapar peces con el hocico o las garras era necesario que tuviera un buen tiempo de reacción. En el agua su cola flexible también le ayudaban a propulsarse con facilidad. Sus huesos pesados y su estatura encorvada, posiblemente no le a ser el más rápido de su clase.
+
+## Comparación del Spinosaurus vs el Tyrannosaurus rex
+
+Cómo dijimos antes, no vivieron en el mismo tiempo, pero se los suele comparar por ser dos dedos de los depredadores prehistóricas más famosos. Incluso se suele tratar de predecir cuál de los dos podría haber ganado en una pelea.
+
+El T-rex deambulaba por la tierra mientras que el Spinosaurus cazaba en al agua. Una ventaja en el Spinosaurus eran sus brazos fuertes y largos, con garras poderosas. El T-rex por otro lado tenían una mordida con una fuerza de 6 toneladas, juntos con un cuello muy estable.
+
+El poder del Spinosaurus se distribuye a lo largo de su cuerpo, mientras que el T-rex gozaba más bien de un poder concentrado. Un espécimen adulto de este último tenía excelentes condiciones de lucha a su favor.
+
+De todos modos estos gigantes nunca se enfrentaron ya que su existencia estuvo separada por 26 millones de años. Además ambos tenían características feroces. En realidad es difícil decidirse por un posible ganador
+
+## ¿Cuándo se extinguió el Spinosaurus?
+
+Las primeras especies de dinosaurios aparecieron en la Tierra unos 245 millones de años atrás. En este tiempo los continentes aún no estaban separados por el mar y componían lo que se conoce como Pangea. Todos los dinosaurios desaparecieron hace 66 millones de años tiempo para el cual los Spinosaurus ya se habían extinguido.
+
+Los investigadores calculan que vivieron hace unos 94 millones de años. Es posible que sus condiciones de vida hayan cambiado debido al clima, los desastres naturales u otras circunstancias que le impidieron sobrevivir.
+
+Existieron durante unos 19 millones de años l que es mucho más tiempo del que hemos existido los seres humanos.
