@@ -12,8 +12,9 @@ A continuación, conocerás un poco más sobre esos especímenes que aún estimu
 
 ## Nombres de dinosaurios famosos en español
 
-| Imagen                                                | Nombres        |
-| ----------------------------------------------------- | -------------- |
-| [![image](./assets/velociraptor.png)](./velociraptor) | `Velociraptor` |
-| [![image](./assets/triceratops.png)](./triceratops)   | `Triceratops`  |
-| [![image](./assets/spinosaurus.png)](./spinosaurus)   | `Spinosaurus`  |
+| Imagen                               | Nombres                                |
+| ------------------------------------ | -------------------------------------- |
+| ![image](./assets/velociraptor.png)  | [**`Velociraptor`**](./velociraptor)   |
+| ![image](./assets/triceratops.png)   | [**`Triceratops`**](./triceratops)     |
+| ![image](./assets/spinosaurus.png)   | [**`Spinosaurus`**](./spinosaurus)     |
+| ![image](./assets/brachiosaurus.png) | [**`Brachiosaurus`**](./brachiosaurus) |
