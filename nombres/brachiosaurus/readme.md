@@ -28,20 +28,56 @@ El conocido cmo Giraffatitan también pertenece a la familia de los Brachiosauri
 
 Se suponía que pertenecían al mismo género. Peroun esdio demostró que existen diferencian claras entre las dos especies.
 
-Giraffatitan es similar en tamaño, poseía patas delanteras largasy fosas nasales altas. No obstante tiene una grupa más corta y una cola más delgada y corta que el Brachiosaurus. Aunque no es tan popular como este.
+Giraffatitan es similar en tamaño, poseía patas delanteras largas y fosas nasales altas. No obstante tiene una grupa más corta y una cola más delgada y corta que el Brachiosaurus. Aunque no es tan popular como este.
+
+Esto Se debe a que no se estableció oficialmente su esqueleto hasta el 2009 en la exhibición del Museo de Historia Natural de Berlín.
+
+## Principales características del Brachiosaurus
+
+### Clasificación
+
+La única especie reconocida es el Brachiosaurus altithorax que forma parte de la familia de los Brachiosauridae y del grupo de los saurópodos. Estos con tradicionalmente los típicos dinosaurios herbívoros de cuatro patas y cuello largo, entre los que se encuentran el Diplodocus, el Brontosaurus y el Patagotitans.
+
+Los saurópodos y los terópodos pertenecen al grupo de los saurioso Saurischia. Los terópodos son típicamente carnívoros bípedos como el Tyrannosaurus rex, El Spinosaurus o el Velociraptor.
+
+Representan lo contrario a lo saurópodos que tenían pelvis de lagarto. De la misma forma existieron dinosaurios con pelvis de ave que se llamaron Ornisthischia u Ornistisquios. Algunos de estos fueron el Triceratops, El Estegosaurio o el Akylosaurus.
+
+### Cuándo vivió
+
+La era Mesozoica en la que los dinosaurios vagaron por la tierra, se dividió en los períodos Triásico Jurásico y Cretácico. El Triásico comenzó hace unos 250 millones de años.
+
+El Brachiosaurus vivió entre los 157 a los 145 millones de años, durante el período Jurásico. Más exactamente entre el Cimmeridio y el Tithoniano.
+
+### Dónde vivió
+
+Aún no hay mucha información sobre el tipo de hábitat que poseía el Brachiosaurus. sus restos fósiles se encontraron mayormente en América del Norte. Es de esperarse que entonces había muchos árboles altos allí y de considerable altura en la era Mesozoica
+
+La mayoría de los saurópodos prefirieron áreas planas y húmedas para vivir. Sin embargo, Los hallazgos norteamericanos del Brachiosaurus indican que el ambiente era bastante seco con lluvias moderadas, Similar a una sabana.
 
 | `Brachiosaurus` pesaba entre 23 a 24 toneladas |
 | ---------------------------------------------- |
 | ![image03](./assets/image03.png)               |
 
+### Características físicas
+
 | Reconstrucción del cráneo de `Brachiosaurus` |
 | -------------------------------------------- |
 | ![image04](./assets/image04.png)             |
+
+### Peso, tamaño y velocidad
+
+#### ¿Por qué era tan grande el Brachiosaurus
 
 | Reconstrucción del `Brachiosaurus` |
 | ---------------------------------- |
 | ![image05](./assets/image05.png)   |
 
+### Estilo de vida y dieta
+
+### Esperanza de vida
+
 | Reconstrucción del esqueleto del `Brachiosaurus` |
 | ------------------------------------------------ |
 | ![image06](./assets/image06.png)                 |
+
+## La extinción del Brachiosaurus
