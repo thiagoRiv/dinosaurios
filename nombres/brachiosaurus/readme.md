@@ -10,7 +10,7 @@ Se trata de uno de los dinosaurios más grandes que alguna vez haya existido en 
 
 Los restos fósiles de Brachiosaurus causaron comfución repetidamente en el pasado. Los únicos hallazgos repetidaamente en el pasado. Los únios hallazgos debimante asignados fueron los ubicados en America del Norte. Sus huesosfueron situados por primera vez en el género Ultrasaurus.
 
-Sin embargo más tarde se descubrió que eran fósiles mixtos de Brachiosarus y Supersaurus. También se han hallado restos en Argelia y Portugal, aunque estos no han sido confirmados y se cree que pertenecen a un género diferente en el grupo Brachiosauridae. El hallazgos portugués ahoa ha sido asignado al género Lusotian
+Sin embargo más tarde se descubrió que eran fósiles mixtos de Brachiosaurus y Supersaurus. También se han hallado restos en Argelia y Portugal, aunque estos no han sido confirmados y se cree que pertenecen a un género diferente en el grupo Brachiosauridae. El hallazgos portugués ahoa ha sido asignado al género Lusotian
 
 Hubo ora confusión con el conocido Brachiosaurus brancai, que se encuentranen el Museo de Historia Natural de Berlín. Figura en el Libro Guiness de los Récords mundiales or ser el dinosaurio montando más grande.
 
@@ -18,7 +18,7 @@ En 2009, se descubrióque tampocose trataba de un Brachiosaurus, sino que era un
 
 Brachiosaurus significa _lagarto armado_ y se compone de ls términos en latín _bracchium_ que quiere brazo y _saurus_ que es lagarto.El género de los dinosaurios se llamó así porque tiene patasdelanteras inusualmente largas en comparacionescon sus congéneres de cuello largo.
 
-La única especie reconocida hoy es el _Brachiosarus altithorax_. Su nombre se traduce como _pecho_ alto.
+La única especie reconocida hoy es el _Brachiosaurus altithorax_. Su nombre se traduce como _pecho_ alto.
 
 <p align="center"><img src="./assets/image02.png"></p>
 
@@ -60,13 +60,29 @@ La mayoría de los saurópodos prefirieron áreas planas y húmedas para vivir. 
 
 ### Características físicas
 
+El hocico del Brachiosaurus era ancho y plano. Su cabezaestaba arqueada hacia arribay era bastante pequeña en relación con el resto de su cuerpo desmunal. Los investigadores ya han observado esta proporción de tamaño en numerosos saurópodos de cuello largo.
+
+En comparación con sus congéneres, el Brachiosaurus poseía patasdelanteras largas. Su cuello y cola probablemente flotaba en el aire mientras corría. Alguns investigadores suponen que el cuello era horizontal o incluso ligeramente curvado hacia abajo.
+
+El Brachiosaurus, como los otros saurópodos, ha sido erróneamente Representado durante mucho tiempoconla cabeza erguida en dibujos y reconstrucciones científicas. Los investigadores descubrieron que sus corazones probablemente eran demasiado débiles par asuministrar oxígeno al cerebro en una posiciónvertical del cuello.
+
+Es lógica pensar que las especiesde dinosaurios de cuellolargo levanarían lacabezae incluso separarían sobre sus patas traseras para comer. Sin embargo, durante la marcha normal lo más probable es que su cabeza estuviera más inclinada hacia abajo para evitar el esfuerzo y preservar una buena circulación sanguínea.
+
 | Reconstrucción del cráneo de `Brachiosaurus` |
 | -------------------------------------------- |
 | ![image04](./assets/image04.png)             |
 
 ### Peso, tamaño y velocidad
 
-#### ¿Por qué era tan grande el Brachiosaurus
+El Brachiosaurus tenía una longitud que rondaba los 27 metros y un volumen corporal que escilaba entre las 23 y las 44 toneladas. La altua de los hombros eraaa e unos 6,4 metros. La logitud de su cuello era de unos 9 metros.
+
+Los especialistas le han asignado una velocidad de unos 25 kilómetro por hora. No obstante las huellas fósiles indican que su caminata normal era de 2 a 4 kilómetros por hora.
+
+#### ¿Por qué era tan grande el Brachiosaurus?
+
+Hay algunas factores que podrían exlicar por qué algunos dinosaurios dieron muestras de un estraordinario _gigantismo_ por lo general se asume que la disponibilidad de alimentos era un factor muy imortante, ya que podían comor hojas en sitios que llegaban a los 14 metros altura.
+
+Una ventaja de ser tan grande es que los dinosaurios podrían absorber muy bien y sólo se enfriaban lentamente. Es posible que fuesen de sangre caliente y que pudiesen regular su temperatura corporal.
 
 | Reconstrucción del `Brachiosaurus` |
 | ---------------------------------- |
