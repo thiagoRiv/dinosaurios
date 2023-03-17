@@ -84,16 +84,42 @@ Hay algunas factores que podrían exlicar por qué algunos dinosaurios dieron mu
 
 Una ventaja de ser tan grande es que los dinosaurios podrían absorber muy bien y sólo se enfriaban lentamente. Es posible que fuesen de sangre caliente y que pudiesen regular su temperatura corporal.
 
+Esto hizo que posiblemente comieran de noche y que también ingirieran suficientes hojas para tener suficiente energía para el día. En definitiva, almacenaban energía para el crecimientomás que para la acción.
+
 | Reconstrucción del `Brachiosaurus` |
 | ---------------------------------- |
 | ![image05](./assets/image05.png)   |
 
 ### Estilo de vida y dieta
 
+Lo que se pude deducir es que el Brachiosaurusera herbívoro y que probablemente se alimentaba mayormente de hojas y agujas que crecían en árboles de gran tamaño. Aunque las plantasdel suelo, que en general eran helechos posiblemente estaba tambié en su menú. Esto explicaría la flexibilidad de su cuello.
+
+Sus dientes eran anchos y tenían forma de espátula. Esto sugiere que era bueno para derribarplantas duras y tagarlas directamente. No obstante, otros géneroscomo Diplodocus tenían dientes en forma de alfileres y probablemente comían plantas más blandas.
+
+El descubrimiento de huevos y nidos de Titanosaurus indicarían que vivían en manada, al menos durante la temporada de reproducción. No obstante el género aún no ha sido claramente clasificado.
+
+Otro indicio de vida en manada se encuentran en las huellas fósiles que sorren paralelas entre sí y en los esqueletos de varios animales en un mismo lugar
+
+Muchos investigadores asumen que probablemente la mayoría de los dinosaurios pusieron huevos. Esto es respaldado por los numerosos hallazgos de huevos prehistóricos y la relación con los reptiles y aves que también son ovíparos.
+
 ### Esperanza de vida
+
+La investigación sugiere que los grandes saurópodos podrían vivir entre 15 y 20 años. Sin embargo los carnívoros y herbívoros más pequeños podían llegar a los 30 o 40 años.
+
+Se descubrió que el dinosaurio de cuatro patas de cuello largo conocido como Janenschia alcanzó la madurez sexual a los 11 años, Su tamaño máximo a los 26 y que murrió a los 38 años.No obstante es difícil calcular su edad máxima, ya que muchos dinosaurios solíanmorir antes debido a enfermedades, desastres ambientales o lesiones.
 
 | Reconstrucción del esqueleto del `Brachiosaurus` |
 | ------------------------------------------------ |
 | ![image06](./assets/image06.png)                 |
 
 ## La extinción del Brachiosaurus
+
+hace 66 millones de años, al final del Cretácico, los dinosaurios se extinguieron. Pero para ese momento el Brachiosaurus había desaparecido hace mucho tiempo. Estos herbívoros enormes camiraron por la tierra durante 8 millones de años y llegaron a su fin hace 145 millones de años en el Jurásico Superior.
+
+El período Jurásico se caracterizó por experimentar fluctuaciones de nivel del mary duras condiciones ambietales. Los Brachiosaurus dependían de grandes cantidades de comida. Es posible que eso no les permitiera sobrevivir a largo plazo.
+
+Además la extinción y el desarrollo posteriorde la especies son parte del proceso evolutivo y a menudo, son inevitables debido alos cambios en las condiciones ambientales.
+
+En general, la mayoría de la especies de dinosaurios vivieron durante mucho más tiempo que la mayor parte de las especies animales que conocemos hoy, icluyendo a los seres humanos que aparecieron en la Edad de Piedra hace unos 2,6 millones de años.
+
+Esto da cuenta de que el Brachiosaurus existió significativamente más que nosotros sobre este planeta.
