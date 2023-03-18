@@ -33,9 +33,27 @@ El algunas ocasiones se nombra al Hadeano, el arcaino y el proterozoico como **P
 
 **Actualmente vivimos en el eón Fanerozoico que significa _vida visible_**. Se caraceriza por abundantes y complejos restos fosilizados. Cómo es el éon más joven está muy bien representado or la roca en la superficie de nuestros mundo.
 
-DEbido a esto la mayoríade los paleontólogos y geológos estudian fósile y rocas del eón **Fanerozoico**.
+Debido a esto la mayoría de los paleontólogos y geológos estudian fósile y rocas del eón **Fanerozoico**.
+
+**El eón Fanerozoico comenzó hace 451 M.A.** Representa un 12% de toda la historia del planeta. La mayor parte de la historia del planeta está representada por los tres precámbricos. Estos eones cuentan la historia del comienzo del planeta, el origen de la vida y el surgimiento de la vida compleja.
+
+El Hadeano y el Arcaino son eones difíciles de estudiar porque están expuestos en lugares muy limitados de la superficie de este mundo. Pero hasta hace poco más de atención por los paleontólogos ya que hay rocas del Proterozoico, que podrían tener indicios de indicios de vida compleja.
 
 ### Eras
+
+Los eones de tiempo a us vez se subdividen en eras que son las segundas unidades más largas de tiempo Geológico. EL eón fanerozoico se divide en las eras Paleozoica, Mesozoica y Cenozoica. La mayor parte del conocimiento de las eras proviene de este eón.
+
+Esta cuenta con:
+
+- **Era paleozoica:** significa _vida antigua_ y se caracterizó por la aparición de los trilobites, que fueron los primeros vertebrados de cuatro extremidades y por el origen de las plantas terrestres.
+
+- **Era Mesozoica:** que quiere decir _vida media_. Representa la _era de los dinosaurios_ aunque también contó con los primeron mamíferos y con las plantas con flores.
+
+- **Era Cenozoica:** cuyo signicado es _nueva vida_. Es reconocida por ser el momento del mayor desarrollado de los mamíferos y es el tiempo en que vivimos hasta el día de hoy.
+
+Los límites representas eventos importantes en la historia de la vida, y generalmente están dados por extinciones masivas. Esto sucede cuando muchos fósiles que se encuentra comúnmente en las rocas paleozoicas más jóvenes no se encuentran en las rocas mesozoicas suprayacentes.
+
+De la misma manera los fósiles de dinosaurios que se encuentren en la era mesozoica más jóvenes nunca se vuelven a encontrar en las rocas cenozoicas subyacentes.
 
 ### Períodos
 
