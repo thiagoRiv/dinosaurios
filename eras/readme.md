@@ -55,15 +55,33 @@ Los límites representas eventos importantes en la historia de la vida, y genera
 
 De la misma manera los fósiles de dinosaurios que se encuentren en la era mesozoica más jóvenes nunca se vuelven a encontrar en las rocas cenozoicas subyacentes.
 
+Los paleontólogos utilizan estos eventos de extinción masiva para definir estos otros límites dentro de la porción fanerozoica de la escala de tiempo geológica. Por eso es que muchos límites se asocian con eventos de extinción masiva.
+
 ### Períodos
+
+Así como eones se dividen en eras, las eras se subdividen en unidades de tiempo llamadas períodos. El más popular a raíz de filmes de dinosaurios es sin el período Jurásico de la Era Mesozoica.
+
+- La **era Paleozoica** se clasifica en los períodos:
 
 ### Épocas y edades
 
+Los períodos de tiempo geológica se subdividen en épocas. A su vez las épocas se dividen en unidades de tiempo aún más estrechas llamadas edades.
+
+Un ejemplo de esto es el período Paleógeno que se dividen en el Paleógeno que s dividen en el Paleoceno, Eoceno y oligoceno. por su parte el Neógeno se divide en el Mioceno y Plioceno. Y el período cuaternario está conformado por las épocas del Pleistoceno y Holoceno. Algunos científicos han propuesto agregar el Antropoceno de bido al impacto que los humanos están teniendo en el planeta.
+
 ## Era Paleozoica
+
+Su nombre proviene de los términos griegos _palaios_ que significa antiguo y _zoe_ que quiere decir _ser vivo o vida_. De ahí que su nombre se interprete como vida antigua. Es la primera era del Eón Fanerozoico.
+
+Esta era estuvo marcada por colisiones continentales, que resultaron en la fomación del supercontinente de Paqea y son otras formaciones como la Cordillera de los Apalaches, las montañas de Tasmania y los montes Urales.
 
 <p align="center"><img src="./assets/image02.png"></p>
 
+Se comoció como una época de cambios evolutivos climáticos y geológicos, y se estima que duró desde los 541 a los 251 M.A. atrás. Fue un tiempo diverso y extenso que se ha subdivido en lso siguientes períodos.
+
 ### Período Cámbrico
+
+Este período duró desde los 542 a los 485 M.A. (millones de años) A.C. marcó el comienzo de la era Paleozoica y fue notable una explosión exponencial de los de los procesos evolutivos. Tuvo el mayor número de organismp y criaturas en la historia del planeta.
 
 ### Período Ordovícico
 
