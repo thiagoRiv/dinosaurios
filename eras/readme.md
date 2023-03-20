@@ -101,9 +101,25 @@ Se conoció como una época de cambios evolutivos climáticos y geológicos, y s
 
 Este período duró desde los 542 a los 485 M.A. (millones de años) A.C. Marcó el comienzo de la era Paleozoica y fue notable una explosión exponencial de los de los procesos evolutivos. Tuvo el mayor número de organismos y criaturas en la historia del planeta.
 
+Las algas, los artrópodos acorazados, los trilobite y prácticamente todos los filos marinos hicieron su debut durante este período.
+
 ### Período Ordovícico
 
+Duró desde el 485 m.a. a.c. Fue testigo de la evolución biológica de muchas especies que prevalecen incluso en la actualidad y del segundo evento de extinción más mortífero en la historia del planeta.
+
+En este tiempo emergieron corales, cefalópodos, y peces primitivos. Algunas formas de vida comunes incluían los mariscos, caracoles y trilobites. Hacia el final de este período américa del Norte chocó con Europa, Cerrando efectivamente el Océano Atlántico, mientras la glaciación de África resultó en una reducción significativa en los niveles del mar en todo el mundo.
+
+Se cree que tal glaciación ha instigado varios eventos de nivel de extinción, con la desaparición del 25% de los invertebrados y el 60% de los invertebrados marinos.
+
 ### Período Silúrico
+
+Se desarrolló desde el 443 a los 416 m.a. a.c. Fue un tiempo en el que evolucionaron los peces y las primeras formas de vida completamente terrestres. A medida que la tierra se recuperó de la glaciación anterior, aparecieron nuevos paces con y sin mandíbula.
+
+También surgieron nuevos peces de aguas dulce Durante este período los escorpiones de mar y los artrópodos siguieron siendo los principales depredadores de los océanos y de las vías fluviales.
+
+En tanto la tierra vio por primera vez criaturas y formas de vida completamente terrestres, como ciempiés, arácnidos y hongos. Las plantas vasculares que surgieron durante este período, conocidas como Cooksonia, permitieron que las plantas se establecieran en la tierra.
+
+Por otro lado le reciente incremento del nivel del mar resultó en un aumento significativo de las especies acuáticas.
 
 ### Período Devónico
 
