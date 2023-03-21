@@ -121,9 +121,25 @@ En tanto la tierra vio por primera vez criaturas y formas de vida completamente 
 
 Por otro lado le reciente incremento del nivel del mar resultó en un aumento significativo de las especies acuáticas.
 
+En este período hubo cuatro continentes principales. Estos eran Laurentia que estaba conformado mayormente por América del Norte, Gondwana que abarcaba África, América del Sur, Australia, la Antártida y Siberia, Avalonia conformada por Europa Occidental y Báltica que encerraba el norte de Europa.
+
 ### Período Devónico
 
+Sucedió desde los 416 a los 359 m.a. a.c. Con frecuencia se la nombra como _La Edad de los Peces_ además de que destacó por la _Explosión del Devónico_ y la _Extinción del Devónico Tardío_.
+
+En este tiempo hubo una diversificación masiva de peces, que más tarde de convertirían en los primeros tetrápodos. En la Tierra, la flora vegetal continuó prosperando y evolucionan, lo que se cono como la _Explosión Devónica_.
+
+Esta permitió que las plantas desarrollaran la capacidad de producir lignina, lo que les ayudó a alcanzar nuevas alturas con un crecimiento más alto y un tejido vascular evolucionado. Esto fue acompañado con el surgimiento de las primeras semillas y árboles en el planeta.
+
+Los los nuevos habitats establecieron ecosistemas únicos que fueron los primeros criaderos de los primeros anfibios. En el tramo final la tierra sufrió se segundo evento de extinción masiva de grandes proporciones.
+
+La extinción de Devónico tardío acabó on el 70% de todas las especies en la faz de la tierra.
+
 ### Período Carbonífero
+
+Tuvo lugar desde los 359 a los 299 m.a. a.c. En ese lapso de tiempo hubo temperaturas globales extremadamente altas, pantanos tropicales, los niveles de oxígeno más altos de la historia del planeta, y también se produjo la evolución de los huevos amnióticos.
+
+Durante el Carbonífero, el planeta experimentó algunas de las temperaturas más altas hacia la fecha, lo que promovió el surgimiento de pantanos densos tropicales y el predominio de árboles muy altos.
 
 ### Período Pérmico
 
