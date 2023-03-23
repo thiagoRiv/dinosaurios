@@ -141,9 +141,25 @@ Tuvo lugar desde los 359 a los 299 m.a. a.c. En ese lapso de tiempo hubo tempera
 
 Durante el Carbonífero, el planeta experimentó algunas de las temperaturas más altas hacia la fecha, lo que promovió el surgimiento de pantanos densos tropicales y el predominio de árboles muy altos.
 
+Curiosamente, los hongos y las bacterias que normalmente comen y descomponen la materia de los árboles estuvieron ausentes este período. Los restos de árboles se enterraron y co el tiempo formaron del depósitos de carbón que usamos en la actualidad.
+
+Uno de los desarrollos más notables que ocurriendo durante este período fue la evolución de los huevos amnióticos, lo que permitió que los anfibios migraran hacia el interior. A medida que finalizaba este período, la tierra experimentó un enfriamiento, lo que condujo a los que ahora conocemos como le Colapso de la Selva Tropical Carbonífera o la Glaciación Permo-Carbonífera.
+
 ### Período Pérmico
 
+Inició hace 299 m.a. a.c. Y concluyó hace 252 m.a. a.c. En este tiempo los continentes se unieron y formaron el continente de Pagea, evolucionaron las coníferas y se produjo el evento de extinción conocidos como la Gran Mortandad.
+
+Fue el último período de la era Paleozoica. Inició con la formación de la Pangea que era como una isla enorme que se movía rodeada por el océano Panthalassa. Estuvo marcado por un clima duro y seco, además de que el enorme interior del super continente no se vio afectado por las aguas oceánicas que regulaban la temperatura.
+
+En el Pérmico los sinápsidos y diápsidos florecieron en la tierra, y vimos el surgimiento de los primeros árboles coníferos. Sin embargo, cerca del final, gran parte del interior de Pangea se había convertido en desierto.
+
+Este período terminó con un evento catastrófico que marcó la extinción del 95% de todas las formas de vida. Se lo conoció como la Gran Mortandad. Sin embargo aún no se tiene claro cómo fue que sucedió.
+
+Se sabe que hubo una enorme erupción volcánica descomunal. Aunque se piensa que entonces sucedió más de una en realidad. Los especialistas creen que desencadenó una serie de cambios en el clima de la Tierra y la química de la atmósfera y los océanos a los que la mayoría de los seres vivos no pudieron adaptarse.
+
 ## Era Mesozoica
+
+Se la conoce como **_La Era de los Dinosaurios_**, fue el tiempo en el que la Tierra experimentó el ascenso y caída de algunos de los animales más notables del planeta. Esto incluyó desde el poderoso Tiranosaurio Rex hasta un ecosistema diverso de mamíferos y aves.
 
 <p align="center"><img src="./assets/image03.png"></p>
 
