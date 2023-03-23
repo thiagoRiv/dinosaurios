@@ -163,9 +163,25 @@ Se la conoce como **_La Era de los Dinosaurios_**, fue el tiempo en el que la Ti
 
 <p align="center"><img src="./assets/image03.png"></p>
 
+Su nombre proviene del griego _mezos_ que quiere decir _intermedio_ y de _zoon_ que significa _animal_ conjunto se refiere a una fase media de la vida en la tierra. Comenzó hace 250 m.a. Y terminó 65 m.a. Atrás. Sus períodos fueron los siguientes.
+
 ### Período Triásico
 
+Comenzó hace 250 m.s. Y concluyó 201 m.a. Atrás. Los ambientes terrestres estaban dominados por los terápsidos y por los tocodontes que fueron ancestros de los mamíferos.
+
+No fue hasta el final de este período en que aparecieron los primeros mamíferos. Eran omnívoros similares a musarañas que fueron seguidos por reptiles, lagartos, tortugas y pterosaurios.
+
+Los océanos estaban dominados por moluscos, que incluían gasterópodos, bivalvos y amonites. Más tarde aparecieron peces, reptiles marinos y tiburones, que se convirtieron en depredadores de las aguas oceánicas.
+
+El clima seco dejó gran parte del desierto interior, sobreviviendo solo las gimnospermas, lo que resultó en la reforestación de las coníferas. Los helechos y musgos mantuvieron un punto de apoyo en las zonas costeras.
+
+En tanto los escorpiones, arañas, milpiés y escarabajos continuaron prosperando, siendo el saltamontes el único insecto recién emergido.
+
 ### Período Jurásico
+
+Inició hace 201 m.a. Y termino hace 146 m.a. A.c. Se trató de un tiempo de cambios globales dinámicos que incluyeron cambios continentales, patrones oceánicos emergentes y nuevos sistemas biológicos.
+
+En la tierra reinó el dinosaurio que eta el ser supremo. También aparecieron aves y los primeros mamíferos. Los océanos fueron increíblemente diverso con la existencia diversos con la existencia de ecosistemas de arrecifes que daban vida a una amplia gama de invertebrados de aguas poco profundas como los que albergaban grandes reptiles depredadores nadadores.
 
 <p align="center"><img src="./assets/image04.png"></p>
 
