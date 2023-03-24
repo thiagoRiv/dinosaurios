@@ -187,9 +187,25 @@ En la tierra reinó el dinosaurio que eta el ser supremo. También aparecieron a
 
 ### Período Cretácico
 
+Comenzó 146(m.a.) atrás y concluyó hace unos 65 m.a. a.c. Fue testigo de cambios emocionantes, como la introducción de plantas con flores. La prueba de esto es el fósil de una angiosperma de 122(m.a.) de antigüedad
+
+La polinización y la polinización cruzada de estas plantas fueron apoyadas y fomentadas por la población de insectos que ya se había establecido en ese momento.
+
+Los poderosos pterosaurios tomaron su lugar en los cielos y las primeras aves se diversificaron y evolucionaron.
+
+Al final de esto período se presentó una extinción que marcó también el desenlace de la era. Lo que sea que haya sucedido terminó en el 70% de la vida vegetal y animal. La causa aún se debate entre los científicos. Esto pudo producirse por un cambio climático progresivo, o por la actividad volcánica. También se piensa que sucedió a raíz de muchos factores
+
 ## Era Cenozoica
 
+Esta era comenzó hace 65(m.a.) ya aún está transcurriendo en la actualidad. Se la ha llamado así en base al griego _Kainos_ que significa _reciente_ y _zoe_ que quiere decir v _vida_. Así se entiende que se trata de la _Vida_ _Nueva_ o _Vida_ _Reciente_.
+
+Fue la era en la que ascendieron los mamíferos que evolucionaron desde los tamaños más pequeños hasta convertirse en poderosos gigantes que formaron lo que se conoce como la _megafauna_, que se extinguió en los tiempos modernos.
+
+Si bien alguno de los mamíferos alcanzó el tamaño de los dinosaurios, algunas especies empequeñecieron a sus parientes modernos Además de los mamuts había aves que medían casi 2 metros.
+
 <p align="center"><img src="./assets/image05.png"></p>
+
+Los continentes existían casi como los conocemos hoy. En le inicio de esta era América del Sur, África y la India no estaban ubicados como en la actualidad. Las tres masas de tierra se movían hacia el norte y chocarían contra América del Norte Europa y Asia respectivamente.
 
 ### Período Paleógeno
 
