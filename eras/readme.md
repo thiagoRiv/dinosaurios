@@ -35,7 +35,7 @@ El algunas ocasiones se nombra al Hadeano, el arcaino y el proterozoico como **P
 
 Debido a esto la mayoría de los paleontólogos y geólogos estudian fósiles y rocas del eón **Fanerozoico**.
 
-**El eón Fanerozoico comenzó hace 451 M.A.** Representa un 12% de toda la historia del planeta. La mayor parte de la historia del planeta está representada por los tres precámbricos. Estos eones cuentan la historia del comienzo del planeta, el origen de la vida y el surgimiento de la vida compleja.
+**El eón Fanerozoico comenzó hace 451 M.a.** Representa un 12% de toda la historia del planeta. La mayor parte de la historia del planeta está representada por los tres precámbricos. Estos eones cuentan la historia del comienzo del planeta, el origen de la vida y el surgimiento de la vida compleja.
 
 El Hadeano y el Arcaino son eones difíciles de estudiar porque están expuestos en lugares muy limitados de la superficie de este mundo. Pero hasta hace poco más de atención por los paleontólogos ya que hay rocas del Proterozoico, que podrían tener indicios de indicios de vida compleja.
 
@@ -95,17 +95,17 @@ Esta era estuvo marcada por colisiones continentales, que resultaron en la forma
 
 <p align="center"><img src="./assets/image02.png"></p>
 
-Se conoció como una época de cambios evolutivos climáticos y geológicos, y se estima que duró desde los 541 a los 251 M.A. Atrás. Fue un tiempo diverso y extenso que se ha subdivido en los siguientes períodos.
+Se conoció como una época de cambios evolutivos climáticos y geológicos, y se estima que duró desde los 541 a los 251 M.a. Atrás. Fue un tiempo diverso y extenso que se ha subdivido en los siguientes períodos.
 
 ### Período Cámbrico
 
-Este período duró desde los 542 a los 485 M.A. (millones de años) A.C. Marcó el comienzo de la era Paleozoica y fue notable una explosión exponencial de los de los procesos evolutivos. Tuvo el mayor número de organismos y criaturas en la historia del planeta.
+Este período duró desde los 542 a los 485 M.a. (millones de años) A.C. Marcó el comienzo de la era Paleozoica y fue notable una explosión exponencial de los de los procesos evolutivos. Tuvo el mayor número de organismos y criaturas en la historia del planeta.
 
 Las algas, los artrópodos acorazados, los trilobite y prácticamente todos los filos marinos hicieron su debut durante este período.
 
 ### Período Ordovícico
 
-Duró desde el 485 m.a. a.c. Fue testigo de la evolución biológica de muchas especies que prevalecen incluso en la actualidad y del segundo evento de extinción más mortífero en la historia del planeta.
+Duró desde el 485 M.a. a.c. Fue testigo de la evolución biológica de muchas especies que prevalecen incluso en la actualidad y del segundo evento de extinción más mortífero en la historia del planeta.
 
 En este tiempo emergieron corales, cefalópodos, y peces primitivos. Algunas formas de vida comunes incluían los mariscos, caracoles y trilobites. Hacia el final de este período américa del Norte chocó con Europa, Cerrando efectivamente el Océano Atlántico, mientras la glaciación de África resultó en una reducción significativa en los niveles del mar en todo el mundo.
 
@@ -113,7 +113,7 @@ Se cree que tal glaciación ha instigado varios eventos de nivel de extinción, 
 
 ### Período Silúrico
 
-Se desarrolló desde el 443 a los 416 m.a. a.c. Fue un tiempo en el que evolucionaron los peces y las primeras formas de vida completamente terrestres. A medida que la tierra se recuperó de la glaciación anterior, aparecieron nuevos paces con y sin mandíbula.
+Se desarrolló desde el 443 a los 416 M.a. a.c. Fue un tiempo en el que evolucionaron los peces y las primeras formas de vida completamente terrestres. A medida que la tierra se recuperó de la glaciación anterior, aparecieron nuevos paces con y sin mandíbula.
 
 También surgieron nuevos peces de aguas dulce Durante este período los escorpiones de mar y los artrópodos siguieron siendo los principales depredadores de los océanos y de las vías fluviales.
 
@@ -125,7 +125,7 @@ En este período hubo cuatro continentes principales. Estos eran Laurentia que e
 
 ### Período Devónico
 
-Sucedió desde los 416 a los 359 m.a. a.c. Con frecuencia se la nombra como _La Edad de los Peces_ además de que destacó por la _Explosión del Devónico_ y la _Extinción del Devónico Tardío_.
+Sucedió desde los 416 a los 359 M.a. a.c. Con frecuencia se la nombra como _La Edad de los Peces_ además de que destacó por la _Explosión del Devónico_ y la _Extinción del Devónico Tardío_.
 
 En este tiempo hubo una diversificación masiva de peces, que más tarde de convertirían en los primeros tetrápodos. En la Tierra, la flora vegetal continuó prosperando y evolucionan, lo que se cono como la _Explosión Devónica_.
 
@@ -137,7 +137,7 @@ La extinción de Devónico tardío acabó on el 70% de todas las especies en la 
 
 ### Período Carbonífero
 
-Tuvo lugar desde los 359 a los 299 m.a. a.c. En ese lapso de tiempo hubo temperaturas globales extremadamente altas, pantanos tropicales, los niveles de oxígeno más altos de la historia del planeta, y también se produjo la evolución de los huevos amnióticos.
+Tuvo lugar desde los 359 a los 299 M.a. a.c. En ese lapso de tiempo hubo temperaturas globales extremadamente altas, pantanos tropicales, los niveles de oxígeno más altos de la historia del planeta, y también se produjo la evolución de los huevos amnióticos.
 
 Durante el Carbonífero, el planeta experimentó algunas de las temperaturas más altas hacia la fecha, lo que promovió el surgimiento de pantanos densos tropicales y el predominio de árboles muy altos.
 
@@ -147,7 +147,7 @@ Uno de los desarrollos más notables que ocurriendo durante este período fue la
 
 ### Período Pérmico
 
-Inició hace 299 m.a. a.c. Y concluyó hace 252 m.a. a.c. En este tiempo los continentes se unieron y formaron el continente de Pagea, evolucionaron las coníferas y se produjo el evento de extinción conocidos como la Gran Mortandad.
+Inició hace 299 M.a. a.c. Y concluyó hace 252 M.a. a.c. En este tiempo los continentes se unieron y formaron el continente de Pagea, evolucionaron las coníferas y se produjo el evento de extinción conocidos como la Gran Mortandad.
 
 Fue el último período de la era Paleozoica. Inició con la formación de la Pangea que era como una isla enorme que se movía rodeada por el océano Panthalassa. Estuvo marcado por un clima duro y seco, además de que el enorme interior del super continente no se vio afectado por las aguas oceánicas que regulaban la temperatura.
 
@@ -163,11 +163,11 @@ Se la conoce como **_La Era de los Dinosaurios_**, fue el tiempo en el que la Ti
 
 <p align="center"><img src="./assets/image03.png"></p>
 
-Su nombre proviene del griego _mezos_ que quiere decir _intermedio_ y de _zoon_ que significa _animal_ conjunto se refiere a una fase media de la vida en la tierra. Comenzó hace 250 m.a. Y terminó 65 m.a. Atrás. Sus períodos fueron los siguientes.
+Su nombre proviene del griego _mezos_ que quiere decir _intermedio_ y de _zoon_ que significa _animal_ conjunto se refiere a una fase media de la vida en la tierra. Comenzó hace 250 M.a. Y terminó 65 M.a. Atrás. Sus períodos fueron los siguientes.
 
 ### Período Triásico
 
-Comenzó hace 250 m.s. Y concluyó 201 m.a. Atrás. Los ambientes terrestres estaban dominados por los terápsidos y por los tocodontes que fueron ancestros de los mamíferos.
+Comenzó hace 250 m.s. Y concluyó 201 M.a. Atrás. Los ambientes terrestres estaban dominados por los terápsidos y por los tocodontes que fueron ancestros de los mamíferos.
 
 No fue hasta el final de este período en que aparecieron los primeros mamíferos. Eran omnívoros similares a musarañas que fueron seguidos por reptiles, lagartos, tortugas y pterosaurios.
 
@@ -179,7 +179,7 @@ En tanto los escorpiones, arañas, milpiés y escarabajos continuaron prosperand
 
 ### Período Jurásico
 
-Inició hace 201 m.a. Y termino hace 146 m.a. A.c. Se trató de un tiempo de cambios globales dinámicos que incluyeron cambios continentales, patrones oceánicos emergentes y nuevos sistemas biológicos.
+Inició hace 201 M.a. Y termino hace 146 M.a. A.c. Se trató de un tiempo de cambios globales dinámicos que incluyeron cambios continentales, patrones oceánicos emergentes y nuevos sistemas biológicos.
 
 En la tierra reinó el dinosaurio que eta el ser supremo. También aparecieron aves y los primeros mamíferos. Los océanos fueron increíblemente diverso con la existencia diversos con la existencia de ecosistemas de arrecifes que daban vida a una amplia gama de invertebrados de aguas poco profundas como los que albergaban grandes reptiles depredadores nadadores.
 
@@ -187,7 +187,7 @@ En la tierra reinó el dinosaurio que eta el ser supremo. También aparecieron a
 
 ### Período Cretácico
 
-Comenzó 146(m.a.) atrás y concluyó hace unos 65 m.a. a.c. Fue testigo de cambios emocionantes, como la introducción de plantas con flores. La prueba de esto es el fósil de una angiosperma de 122(m.a.) de antigüedad
+Comenzó 146(M.a.) atrás y concluyó hace unos 65 M.a. a.c. Fue testigo de cambios emocionantes, como la introducción de plantas con flores. La prueba de esto es el fósil de una angiosperma de 122(M.a.) de antigüedad
 
 La polinización y la polinización cruzada de estas plantas fueron apoyadas y fomentadas por la población de insectos que ya se había establecido en ese momento.
 
@@ -197,7 +197,7 @@ Al final de esto período se presentó una extinción que marcó también el des
 
 ## Era Cenozoica
 
-Esta era comenzó hace 65(m.a.) ya aún está transcurriendo en la actualidad. Se la ha llamado así en base al griego _Kainos_ que significa _reciente_ y _zoe_ que quiere decir v _vida_. Así se entiende que se trata de la _Vida_ _Nueva_ o _Vida_ _Reciente_.
+Esta era comenzó hace 65(M.a.) ya aún está transcurriendo en la actualidad. Se la ha llamado así en base al griego _Kainos_ que significa _reciente_ y _zoe_ que quiere decir v _vida_. Así se entiende que se trata de la _Vida_ _Nueva_ o _Vida_ _Reciente_.
 
 Fue la era en la que ascendieron los mamíferos que evolucionaron desde los tamaños más pequeños hasta convertirse en poderosos gigantes que formaron lo que se conoce como la _megafauna_, que se extinguió en los tiempos modernos.
 
@@ -207,8 +207,28 @@ Si bien alguno de los mamíferos alcanzó el tamaño de los dinosaurios, algunas
 
 Los continentes existían casi como los conocemos hoy. En le inicio de esta era América del Sur, África y la India no estaban ubicados como en la actualidad. Las tres masas de tierra se movían hacia el norte y chocarían contra América del Norte Europa y Asia respectivamente.
 
+Las colisiones de África y especialmente de la India llevaron a la formación de montañas que dieron nacimiento a los Alpes y las cadenas montañosas del Himalaya.
+
 ### Período Paleógeno
+
+Comenzó hace 65(M.a. a.c.) y terminó hace 23 M.a. a.c. En este lapso se experimento la diversificación de los mamíferos. También fue el escenario del calentamiento global conocido como Máximo Térmico del Paleoceno-Eoceno.
+
+Algún movimiento continental tuvo lugar durante el período paleógeno. Los climas se enfriaron un poco y los mares interiores se retiraron de América del Norte a principios del período. Al parecer existió un puente terrestre en el Oligoceno temprano temprano ente América del Norte y Europa, lo que explicaría sus faunas similares.
+
+En un período geológicamente breve del Eoceno aparecieron la mayoría de las órdenes modernas del mamífero. Las aves también evolucionaron hasta lograr su forma moderna. La mayoría de las otras ramas en la tierra permanecieron relativamente sin cambios en comparación con las aves y los mamíferos en este período.
 
 ### Período Neógeno
 
+Este lapso de tiempo comenzó 23(M.a.) atrás y terminó hace 2,6 M.a. En este tiempo el clima se volvió más frío y seco. Los pastizales reemplazaron a los bosques y los animales debieron adaptarse a estas condiciones o enfrentar la extinción.
+
+Los continentes chocaban entre sí. Había montañas levantadas en muchos lugares e India continuó su empuje en Asia. Así nació la cordillera del Himalaya. Italia avanzó hacia el norte de Europa levantando los Alpes y España se estrelló contra Francia para formar los Pirineos.
+
+Los niveles del mar eran más bajos debido a la colisión continental. Los polos norte y sur comenzaron a tener casquetes polares y se formaron puentes terrestres que permitieron el desplazamiento animal.
+
 ### Período Cuaternario
+
+Comenzó hace 2,6(m.a.) y continúa en la actualidad. Es el tiempo de los mamíferos gigantes, de los humanos y de los felinos con dientes de sable. Los continentes llegaron a sus posiciones actuales.
+
+Las temperaturas eran más frías en todas partes, el hielo polar avanzó y retrocedió repetidamente. LA tierra se calentó y enfrió. Los científicos registraron más de 60 ciclos de expansión y contracción durante el Pleistoceno.
+
+Surgieron los humanos quienes se levantaron como la especie dominante del planeta. Su capacidad de resolución de problemas ha hecho que cambie la superficie del planeta. A tal punto que se considera que en realidad estamos en el Antropoceno, dado que la mano del hombre ha cambiado el mundo e incluso parece poner el peligro su futuro.
