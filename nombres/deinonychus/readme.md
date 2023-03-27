@@ -18,17 +18,33 @@ En 1931 en Montana el paleontólogo Barnum Brown encontró el esqueleto incomple
 
 Tenía una estructura ágil, con huesos ligeros. También disponía de extensiones largas y fibrosas en las vértebras de la cola. Brown pensó que esto endurecía el apéndice en su conjunto, lo que le ayudaba a la cola a actuar como un excelente contrapeso para el resto de su anatomía.
 
-Brown, quien pensó en escribir un manuscrito respecto a este descubrimiento no pudo hacer lo debido a su muerte en 1963. Antes de su partida logró mostrarle el esqueleto al joven investigador conocido como John Ostrom.
+Brown, quien pensó en escribir un manuscrito respecto a este descubrimiento no pudo hacer lo debido a su muerte en 1963. Antes de su partida logró mostrarle el esqueleto al joven investigador conocido como John Ostron.
 
 Los conoció en 1963 durante la búsqueda de dinosaurios del Cretácico en Bridger, en Montana. Junto a una colega hallaron una mano con garras de un terópodo que sobresalía en la tierra,seguido de un pie. Esto dio lugar ala aparición de otra innumerable cantidad de huesos.
 
-Con el tiempo Ostrom notó que se trataba del mismo tipo de animal que Brown había encontrado décadas antes. Los llamó Deinonychus antirrhopyus en el año 1969. Esto lo hizo con la seguridad de haber recuperado los restos fósiles de cuatro individuos, en la misma cantera de Montana. Además todos se hallaron cerca de huesos de Tenontosaurus.
+Con el tiempo Ostron notó que se trataba del mismo tipo de animal que Brown había encontrado décadas antes. Los llamó Deinonychus antirrhopyus en el año 1969. Esto lo hizo con la seguridad de haber recuperado los restos fósiles de cuatro individuos, en la misma cantera de Montana. Además todos se hallaron cerca de huesos de Tenontosaurus.
+
+Cuando Ostron lo describió tuvo una gran revelación con respecto a las garras. Era evidente que el Deinonychus camina sosteniendo las garras en alto. Hasta entoncesse pensaba que los dinosaurios eran lentos y letárgicos. Pero este descubrimiento corrigió esa noción de las cosas Tenía huesos ligeros y garras siempre listas para pelear. Era evidente que se trataba de un animal muy activo.
+
+Desde finales de los 60 y sobre todo durante la década del 70 se produjo el llamado _Renacimiento de los dinosaurios_. Fue una corriente nueva en la que se replanteó lo que se conocía sobreestos estos animales prehistóricos. Se esmpezó a considerar que las aves descienden de lso dinosaurios, algo que ganó consenso científico.
+
+En cambio se cuestionaron viejas creencias sobre las tasas metabólicas de los dinosaurios.
 
 <p align="center"><img src="./assets/image02.png"></p>
 
 ## ¿Qué significa Deinonychus?
 
+El nombre Deinonychus se originó en el griego _deinos_ que significa terrible y _nyus_ que quiere decir garra. De ahí que se lo interprete como _Garra Terrible_.
+
+Por otro lado debido a su gran cola que parecía cumplir un papel compensador también se lo llamó _antirrhopus_ que viene del griego _antíporros_ que significa contrapeso.
+
 ## El grupo Dromaeosauridae
+
+La familia de los dromaeosauridae es un clado de dinosaurios terópodos. Tienen algunas particularidades derivadas constituidas especialmente en modificaciones en la extremidad anterior que se materializó en un agarre flexible.
+
+De hecho se cree que dicha transformación fue lo que dio lugar al _golpe de vuelo_ que tienen las aves. Actualmente se piensa que los pájaros tuvieron un ancestro en común con los dromeosauridae durante el Jurásico.
+
+Es debido a esto que se los suele llamar como el _grupo hermano del clado de la aves_ Se supone que la ascendencia de las aves también estaría dromeosaurios, aunque no hay un acuerdo sobre esto aún.
 
 ## Deinonychus Vs Velociraptor
 
