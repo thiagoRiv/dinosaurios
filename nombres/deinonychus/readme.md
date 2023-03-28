@@ -46,6 +46,26 @@ De hecho se cree que dicha transformación fue lo que dio lugar al _golpe de vue
 
 Es debido a esto que se los suele llamar como el _grupo hermano del clado de la aves_ Se supone que la ascendencia de las aves también estaría dromeosaurios, aunque no hay un acuerdo sobre esto aún.
 
+### Los raptors
+
+Los dromeosauridae eran los que se conoce como _rapaces_. Se trataba de un grupo de criaturas interesantes. El nombre de clado se refiere en realidad a lo que se conoce como _raptors_
+
+Eran terópodos cuyo tamaño era entre pequeño, como del tamaño de un lobo, a grandes con una longitud de hasta 10 metros. Poseían una garra cortante bien desarrollada en su segunda falange pedal, una cola rígida que posiblemente funcionó como estabilizador dinámico y grandes manos para el agarre.
+
+Ostentaban garras, mandíbulas musculosas, dentaduras fuertes y cuerpo ágiles. Fueron depredadores feroces y activos que tenían una capacidad versátil de movimiento.
+
+Los dinosaurios que cuadran dentro de esta familia son el Deinonychus antirrhopus, el Velociraptor mongoliensis y el Utahraptor kirkland.
+
+### La garra terrible
+
+La garra asesina era una estructura infaltable en los Dromaeosauridae. Era muy útil para matar y en condiciones normales se mantenía alejada del suelo durante la locomoción, Sin embrago cuando los músculos del dedo del pie se contraían, esta garra bajaba rápidamente.
+
+El ángulo de la base a la punta de la garra impulsó la transmisión de fuerzas entre la pata y la punta de la garra. Esto daba coo destripar rápidamente a un animal.
+
+La cola rígida que poseían habría sido útil para la estabilización del cuerpo, en tanto que los brazos y mandíbulas sujetaban a la presa, Preservando su equilibrio. Se ha sugerido que los Dromeosauridae saltaban sobre presas grandes y usaban las cuatro extremidades para desgarrarlas. Los ornitomímidos habrían sido los más rápidos, aunque esto es una mera especulación.
+
+Otras hipótesis indican que se comportaban como los leones y que manifestaban una conducta depredador similar, que prefería las emboscadas y las persecuciones rápidas. Emplearían su maniobrabilidad y sus tácticas de manada.
+
 ## Deinonychus Vs Velociraptor
 
 <p align="center"><img src="./assets/image03.png"></p>
