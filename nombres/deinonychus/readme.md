@@ -68,7 +68,33 @@ Otras hipótesis indican que se comportaban como los leones y que manifestaban u
 
 ## Deinonychus Vs Velociraptor
 
+A la hora de comprar al Deinonychus una de los adversarios más llamativos es el Velociraptor, un terópodo que poseía características similares. Un análisis de sus particularidades podría revelar quién hubiese sido el ganador en una pelea a muerte
+
+### Diferencias
+
+Las principales diferencias entre estos dinosaurios están relacionadas con el tamaño de cada uno y con su estilo de vida. Como dijimos antes el Deinonychus podría pesar al rededor de 75 kilos, llegando a veces a los 95. Y podría medir alrededor de 3 metros. SE piensa que cazaba sólo o en manadas.
+
+El Velociraptor tenían un volumen que rondaba los 22 kilos y podía medir menos de un metro de altura. A pesar de lo que se cree cazaba solo e incluso se podía enfrentar a los suyos.
+
 <p align="center"><img src="./assets/image03.png"></p>
+
+### Tamaño
+
+El Deinonychus era más grande que el Velociraptor y poseía una mayor longitud. Si el primero podía medir 3,4 metros de largo el segundo apenas superaba el metro del largo, llegando en algunos casos a medir casi 2 metros.
+
+### Velocidad y movimiento
+
+El Velociraptor era más rápido que el Deinonychus. Podía correr entre 16 a 38 km/h. En cambio el Deinonychus poseía u cuerpo más grande ya que sus piernas estaban construidas para privilegiar la potencia por encima de la velocidad.
+
+Se piensa que su caminata era de 9 km/h y que podría correr hasta 32 km/h en distancias cortas.
+
+### Defensas
+
+El Deinonychus tenía la capacidad de usar su tamaño y su postura amenazante para intimidar. Pero el Velociraptor era muy raudo y ágil lo que le servías para preservarse frente a innumerables depredadores.
+
+### Capacidad ofensiva
+
+En el ataque a sus presas el Deinonychus tenía la capacidad de saltar, atraparla con sus garras y devorarla son sus poderosos mordiscos. Tenía una mordida comparable a la de un caimán y con sus garras infringía un gran daño.
 
 ## Características del Deinonychus
 
