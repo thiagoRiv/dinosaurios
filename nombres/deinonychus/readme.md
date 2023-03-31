@@ -96,9 +96,33 @@ El Deinonychus tenía la capacidad de usar su tamaño y su postura amenazante pa
 
 En el ataque a sus presas el Deinonychus tenía la capacidad de saltar, atraparla con sus garras y devorarla son sus poderosos mordiscos. Tenía una mordida comparable a la de un caimán y con sus garras infringía un gran daño.
 
+El Velociraptor atacaba de forma similar puesto que usaría sus pies para matar a su presa en la mayoría de los casos. Sus colas les ayudaban a sus presas. La desgarraban con sus dientes afilados.
+
+### Comportamiento depredador
+
+El Velociraptor era carnívoro, pero era cazador solitario que buscaba su comida de noche. El Deinonychus era un cazador solitario que utilizaba ocasionalmente la depredación oportunista o por emboscada en grupo. Se cree que si estaba junto a otros de su especie e porque todo iban tras la misma presa.
+
+### Y el ganador es...
+
+Después de ver sus características todo parece indicar que el ganador habría sido el Deinonychus, debido a su tamaño. Si bien el volumen no siempre es sinónimo de victoria, en este caso viendo sus similitudes sería el factor decisivo.
+
+El Deinonychus no tendría demasiada dificultad para grande de terópodo. Le daría un golpe profundo y letal y podría enfrentarlo también si se apareciese en grupos.
+
 ## Características del Deinonychus
 
+El Deinonychus ha sido estudiado por los especialistas, quienes han podido establecer sus particularidades más importantes. Conocerla a continuación.
+
 <p align="center"><img src="./assets/image04.png"></p>
+
+### Clasificación
+
+Se clasifica en el suborden Theropoda en la familia Dromaeosauridae y al clado Eudromaeosauridae. Tenía relación con el Velociraptor y es probable que tuviera un ancestro en común con éste.
+
+Este grupo de terópodos es similar a los pájaros. Se los suele llamar _raptors_, un término más bien conocido a partir de la saga de filmes de Jurassic Park.
+
+### Cuándo vivió
+
+Se estima que vivió durante el período Cretácico temprano durante la era Mesozoica. Sus restos hallados en América del Norte tienen una antigüedad de unos 127 millones de años.
 
 <p align="center"><img src="./assets/image05.png"></p>
 
