@@ -124,6 +124,28 @@ Este grupo de terópodos es similar a los pájaros. Se los suele llamar _raptors
 
 Se estima que vivió durante el período Cretácico temprano durante la era Mesozoica. Sus restos hallados en América del Norte tienen una antigüedad de unos 127 millones de años.
 
+### Hábitat
+
+El primer ejemplar de Deinychus antirrhopus fue descubierto por el paleontólogo JH Ostrom en Montana, EN la Formación Cloverly en el año 1969. Tambilen se han hallaso especímenes en Colorado y Wyoming.
+
+Durante el período Cretácico temprano América del Norte estuvo dominada por una vía marítima interior que progresó y retrocedió muchas veces durante esta época, sobre las regiones del Centro oeste.
+
+En ese tiempo los vegetales evolucionaron a las plantas angiospermas con flores. Esto fue la fuente de alimento de los y otros dinosaurios que ramoneaban las plantas.
+
+Estos dinosaurios habrían medido alrededor de 2,5 metros y pesaban alrededor de 68 kg en promedio. Era un depredador rápido ágil con inteligencia bastante desarrollada, con la que se movía de forma compleja al cazar animales.
+
+### Físico y locomoción
+
+El Deinonychus era un dinosaurio terópodo. Por lo tanto caminaba más desarrolladas que las anteriores. Se caracterizaban por tener garras en sus extremidades superiores con forma de hoz con las que podía aniquilar a sus presas.
+
+También tenía una cola larga, delgada y firme, que estaba formada por varillas óseas. Esta era una parte de su anatomía que le permitía correr y atacar, manteniendo el equilibrio.
+
+### Estilo de vida y dieta
+
+SU dieta era carnívora. No hay evidencias de que el Deinonychus viviera en manadas. Era más bien un cazador solitario que es ocasiones colaboraba con otros de su especie de forma oportunista para ir tras una presa.
+
+Por lo general devoraba animales de tamaño menor que podía destripar fácilmente con sus garras en forma de hoz. Algunas estiman que si cazaba en manadas podrían haber hecho presa al Tenontosaurus ya que vivieron ene le mismo tiempo y territorio. De hecho se hallaron especímenes uno muy cerca del otro.
+
 <p align="center"><img src="./assets/image05.png"></p>
 
 ## ¿Cuándo se extinguió el Deinonychus?
