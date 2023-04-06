@@ -126,7 +126,7 @@ Se estima que vivió durante el período Cretácico temprano durante la era Meso
 
 ### Hábitat
 
-El primer ejemplar de Deinychus antirrhopus fue descubierto por el paleontólogo JH Ostrom en Montana, EN la Formación Cloverly en el año 1969. Tambilen se han hallaso especímenes en Colorado y Wyoming.
+El primer ejemplar de Deinychus antirrhopus fue descubierto por el paleontólogo JH Ostrom en Montana, EN la Formación Cloverly en el año 1969. También se han hallado especímenes en Colorado y Wyoming.
 
 Durante el período Cretácico temprano América del Norte estuvo dominada por una vía marítima interior que progresó y retrocedió muchas veces durante esta época, sobre las regiones del Centro oeste.
 
@@ -142,10 +142,20 @@ También tenía una cola larga, delgada y firme, que estaba formada por varillas
 
 ### Estilo de vida y dieta
 
-SU dieta era carnívora. No hay evidencias de que el Deinonychus viviera en manadas. Era más bien un cazador solitario que es ocasiones colaboraba con otros de su especie de forma oportunista para ir tras una presa.
+Su dieta era carnívora. No hay evidencias de que el Deinonychus viviera en manadas. Era más bien un cazador solitario que es ocasiones colaboraba con otros de su especie de forma oportunista para ir tras una presa.
 
 Por lo general devoraba animales de tamaño menor que podía destripar fácilmente con sus garras en forma de hoz. Algunas estiman que si cazaba en manadas podrían haber hecho presa al Tenontosaurus ya que vivieron ene le mismo tiempo y territorio. De hecho se hallaron especímenes uno muy cerca del otro.
 
+Pero esto aún no tiene asidero ya que el Tenontosaurus era un saurópodo de unas dos toneladas, por lo que habría sido necesario que lo atacaran en manada para poder realmente derribarlo
+
 <p align="center"><img src="./assets/image05.png"></p>
 
+### Esperanza de vida
+
+No hay una forma clara de saber cuánto era capaz de vivir el Deinonychus. Para tener una idea se debe comparar con la esperanza de vida de otros terópodos como el Tyrannosaurus rex o el Velociraptor que podían vivir un promedio de 26 años.
+
+Por lo tanto es posible que vivieran entre 20 y 30 años. Aunque por lo general su tiempo dependía de su capacidad de sobrevivir y de las condicionales de su medio ambiente.
+
 ## ¿Cuándo se extinguió el Deinonychus?
+
+El Deinonychus antirrhopus existió el Jurásico superior y el Cretácico temprano, de acuerdo a los que afirman las mayoría de los expertos. Esto fue entre los 115 a los 108 millones de años a.c. Los paleontólogos afirman que fueron aniquilados durante un evento de extinción causada por masivos impactos de meteoritos en el planeta.
