@@ -36,6 +36,22 @@ En los inicios de Triásico todo estaba reunido en un enorme continente que se c
 
 <p align="center"><img src="./assets/image02.png"></p>
 
+Los millones de años siguientes hubo movimientos tectónicos que comenzaron a provocar la división y separación de la Pangea. Parte de este proceso involucró el brote de lava entre huecos y fisuras. Como consecuencia brotó el el dióxido de carbono, un gas de efecto invernadero que calentó el clima y comenzó a provocar altibajos climáticos extremos.
+
+Sus primeros 20 millones de años fueron _violentamente variables_, con temperaturas que variaban entre los 50 y los 60 grados Celsius. Esto fue acompañado por períodos lluviosos que les dieron algunas ventajas a los animales en algunas regiones.
+
 <p align="center"><img src="./assets/image03.png"></p>
+
+Florecieron plantas durante todo el Triásico mayormente coníferas y helechos. Esto facilitó el ascenso de los reptiles, como variantes de lagartos y tortugas, cocodrilos y pro supuesto de los dinosaurios.
+
+Los primeros aparecieron durante la más alta actividad volcánica. Se diversificaron en saurópodos, y terópodios, en ambos casos herbívoros, junto a ornitisquios y también herbívoros con pico.
+
+No obstante aún no tenían un tamaño demasiado desarrollado. De hecho eran diminutos como perros pequeños. Y a pesar de que los territorios estaban conectados no se propagaron demasiado.
+
+Esto se debió a que las áreas ecuatoriales eran demasiado calurosas y secas con lluvias torrenciales que provocaban inundaciones mortales. Incluso hubo incendios forestales que despoblaron grandes zonas arboladas.
+
+En estas áreas sólo pudieron sobrevivir los dinosaurios carnívoros, que obviamente no dependían de las plantas para sobrevivir.
+
+Hubo otro evento de extinción masiva cuyas causas y duración son un verdadero misterio. Una vez más esto dejó importantes agujeros ecológicos por llenar.
 
 ### Jurásico (hace 201 a 145 millones de años)
