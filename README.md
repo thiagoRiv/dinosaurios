@@ -54,4 +54,18 @@ En estas áreas sólo pudieron sobrevivir los dinosaurios carnívoros, que obvia
 
 Hubo otro evento de extinción masiva cuyas causas y duración son un verdadero misterio. Una vez más esto dejó importantes agujeros ecológicos por llenar.
 
-### Jurásico (hace 201 a 145 millones de años)
+### Jurásico (hace 201 a 145 M.a.)
+
+Los dinosaurios que sobrevivieron tenían dos características adaptativas muy interesantes. Por un lado tenían la capacidad de mantenerse erguidos. Por el otro poseían pulmones que trabajan con gran eficiencia y que los fortalecieron.
+
+Estos rasgos los ayudaron a evolucionar hasta convertirse en bestias gigantescas durante el Período Jurásico.
+
+La división de Pangea comenzó prosperar. Una fisura se convirtió en el Océano Atlántico. También aparecieron los continentes América del Sur, América del Norte e India.
+
+<P align="center"><img src="./assets/image04.png"></p>
+
+Fue la era del dominio de los pliosaurios en los mares. Eran dinosaurios que tenían unos 15 metros de largo y que eran cazadores realmente impresionantes. En tierra abundaban los insectos como los escarabajos y las libélulas.
+
+También surgieron los mamíferos, pero ninguno más grande que una ardilla. No tendrían aún lugar para su pleno desarrollo. Plantas como las cícadas que eran palmeras que producían conos con semillas se volvieron muy abundantes.
+
+Los dinosaurios herbívoros comenzaron a desarrollar cuellos largos para alcanzar
