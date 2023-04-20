@@ -68,4 +68,22 @@ Fue la era del dominio de los pliosaurios en los mares. Eran dinosaurios que ten
 
 También surgieron los mamíferos, pero ninguno más grande que una ardilla. No tendrían aún lugar para su pleno desarrollo. Plantas como las cícadas que eran palmeras que producían conos con semillas se volvieron muy abundantes.
 
-Los dinosaurios herbívoros comenzaron a desarrollar cuellos largos para alcanzar
+Los dinosaurios herbívoros comenzaron a desarrollar cuellos largos para alcanzar las hojas superiores de las coníferas. Esto fue acompañado por la aparición de un sistema digestivo más grande y adecuado para asimilar esta clase vegetal duro.
+
+<p align="center"><img src="./assets/image05.png"></p>
+
+De este modo hubo una mayor diversidad, abundancia y tamaño en los saurópodos en el Jurásico Superior. Pero la reducción de coníferas al final de este tiempo también afecto a la proporción de dinosaurios herbívoros de cuello largo
+
+### Cretásico (hace 145 a 66 M.a.)
+
+A esta altura la Pangea había alcanzado un alto grado de fragmentación con la separación completa de islas y continentes. Surgió un océano de poca profundidad que se llamó Vía Marítima Interior Occidental. Inundó gran parte de lo que hoy es Estados Unidos y Canadá.
+
+Comenzaron a circular las corrientes oceánicas y el Incremento del CO2 hizo que el clima de todo el plante se volviera templado. Los polos existían pero eran cálidos, con grandes bosques en desarrollo.
+
+En este período aparecieron las plantas cuyas floraciones dieron origen a insectos como las hormigas, las mariposas y los saltamontes.
+
+También hubo situaciones problemáticas como el Evento Anóxico Oceánico, que fue la primera vez en el Cretásico en que los mares se volvieron anóxicos. Es decir que se quedaron con bajos niveles de oxígeno.
+
+Las causantes fueron las erupciones volcánicas masivas que tuvieron gran repercusión en los ecosistemas marinos.
+
+Al final de este tramo las grandes masas terrestres ya estaban asentadas y habían ganado el formato territorial que conocemos en la actualidad. Diferentes clases de dinosaurios habitaban en cada sector.
