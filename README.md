@@ -74,7 +74,7 @@ Los dinosaurios herbívoros comenzaron a desarrollar cuellos largos para alcanza
 
 De este modo hubo una mayor diversidad, abundancia y tamaño en los saurópodos en el Jurásico Superior. Pero la reducción de coníferas al final de este tiempo también afecto a la proporción de dinosaurios herbívoros de cuello largo
 
-### Cretásico (hace 145 a 66 M.a.)
+### Cretácico (hace 145 a 66 M.a.)
 
 A esta altura la Pangea había alcanzado un alto grado de fragmentación con la separación completa de islas y continentes. Surgió un océano de poca profundidad que se llamó Vía Marítima Interior Occidental. Inundó gran parte de lo que hoy es Estados Unidos y Canadá.
 
@@ -82,8 +82,26 @@ Comenzaron a circular las corrientes oceánicas y el Incremento del CO2 hizo que
 
 En este período aparecieron las plantas cuyas floraciones dieron origen a insectos como las hormigas, las mariposas y los saltamontes.
 
-También hubo situaciones problemáticas como el Evento Anóxico Oceánico, que fue la primera vez en el Cretásico en que los mares se volvieron anóxicos. Es decir que se quedaron con bajos niveles de oxígeno.
+También hubo situaciones problemáticas como el Evento Anóxico Oceánico, que fue la primera vez en el Cretácico en que los mares se volvieron anóxicos. Es decir que se quedaron con bajos niveles de oxígeno.
 
 Las causantes fueron las erupciones volcánicas masivas que tuvieron gran repercusión en los ecosistemas marinos.
 
 Al final de este tramo las grandes masas terrestres ya estaban asentadas y habían ganado el formato territorial que conocemos en la actualidad. Diferentes clases de dinosaurios habitaban en cada sector.
+
+<p align= "center"><img src="./assets/image07.png"></p>
+
+En 2005 paleontólogos de Alemania descubrieron una versión reducida de un dinosaurio más grande. Dedujeron que evolucionó en una isla, lo que explicaría su tamaño. Era un territorio que no tenía suficiente comida ni espacio para promover un mayor desarrollo.
+
+En la última etapa del Mesozoico, 66 millones de años atrás hubo un evento cataclísmico. Un meteorito colisionó contra el planeta y alteró el clima por completo de la noche a la mañana. Así se extinguieron los dinosaurios y la mitad de la vegetación que había existido hasta entonces. Esto le dio lugar a la siguiente especie para reinar. Así fue como nació la era de los mamíferos.
+
+<p align= "center"><img src="./assets/image08.png"></p>
+
+## ¿Qué son los dinosaurios?
+
+Aunque parezca un asunto obvio, hay características que definen lo que es un dinosaurio. Los que es un dinosaurio. Los que establecieron estas particularidades fueron los científicos especializados en delimitar el objeto de estudio, con el fin de realizar una tarea una tarea concreta y distinguible.
+
+Por eso lo que se entienden como dinosaurios son los animales prehistórico que reúnen estos requisitos.
+
+1. **Eran reptiles que vivieron en la era Mesozoica**. Es decir hace 245 a 66 millones de años. Hay que destacar que ellos no estaban solos, ya que habitaban en diversas comunidades ecológicas. Por lo que en ese tiempo también había insectos, anfibios e incluso mamíferos.
+
+2. **vivían en la tierra.** No se incluyen a los que habitaban en el agua como el mosasaurios
