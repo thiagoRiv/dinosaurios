@@ -88,15 +88,15 @@ Las causantes fueron las erupciones volcánicas masivas que tuvieron gran reperc
 
 Al final de este tramo las grandes masas terrestres ya estaban asentadas y habían ganado el formato territorial que conocemos en la actualidad. Diferentes clases de dinosaurios habitaban en cada sector.
 
-<p align= "center"><img src="./assets/image07.png"></p>
+<p align= "center"><img src="./assets/image06.png"></p>
 
 En 2005 paleontólogos de Alemania descubrieron una versión reducida de un dinosaurio más grande. Dedujeron que evolucionó en una isla, lo que explicaría su tamaño. Era un territorio que no tenía suficiente comida ni espacio para promover un mayor desarrollo.
 
 En la última etapa del Mesozoico, 66 millones de años atrás hubo un evento cataclísmico. Un meteorito colisionó contra el planeta y alteró el clima por completo de la noche a la mañana. Así se extinguieron los dinosaurios y la mitad de la vegetación que había existido hasta entonces. Esto le dio lugar a la siguiente especie para reinar. Así fue como nació la era de los mamíferos.
 
-<p align= "center"><img src="./assets/image08.png"></p>
+<p align= "center"><img src="./assets/image07.png"></p>
 
-## ¿Qué son los dinosaurios?
+### ¿Qué son los dinosaurios?
 
 Aunque parezca un asunto obvio, hay características que definen lo que es un dinosaurio. Los que es un dinosaurio. Los que establecieron estas particularidades fueron los científicos especializados en delimitar el objeto de estudio, con el fin de realizar una tarea una tarea concreta y distinguible.
 
@@ -104,4 +104,18 @@ Por eso lo que se entienden como dinosaurios son los animales prehistórico que 
 
 1. **Eran reptiles que vivieron en la era Mesozoica**. Es decir hace 245 a 66 millones de años. Hay que destacar que ellos no estaban solos, ya que habitaban en diversas comunidades ecológicas. Por lo que en ese tiempo también había insectos, anfibios e incluso mamíferos.
 
-2. **vivían en la tierra.** No se incluyen a los que habitaban en el agua como el mosasaurios
+2. **vivían en la tierra.** No se incluyen a los que habitaban en el agua como el mosasaurios y plesiosaurios. Había reptiles nadadores pero no eran dinosaurios. Esto también excluye a los que podían volar como pterosaurio.
+
+3. **Tenían vértebras**. Sin importar su tamaño los dinosaurios poseían una columna vertebral bien definida.
+
+4. **Caminaban con sus patas directamente debajo como lo hace los pájaros**. Gracias a esto eran grandes caminantes y corredores, y fue una de las claves de su larga supervivencia.
+
+5. **Eran diápsidos**. Es decir, que tenían dos orificios detrás de los ojos. Esto aligeraba sus cráneos y les daba unión a sus músculos faciales.
+
+## Extinción de los dinosaurios
+
+Anteriormente nombramos la causa más popular y probable de la extinción de los dinosaurios. Estamos hablando de la caída de un asteroide que se habría estrellado contra lo que es hoy la Península de Yucatán hace 66 millones de años.
+
+Esto habría diseminado en la atmósfera una gran cantidad material terrestre y partes del asteroide bloquean la luz solar. Como es de imaginarse aparejado el fin de los dinosaurios.
+
+## Plumas en los dinosaurios
