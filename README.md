@@ -119,3 +119,27 @@ Anteriormente nombramos la causa más popular y probable de la extinción de los
 Esto habría diseminado en la atmósfera una gran cantidad material terrestre y partes del asteroide bloquean la luz solar. Como es de imaginarse aparejado el fin de los dinosaurios.
 
 ## Plumas en los dinosaurios
+
+Los dinosaurios tenían plumas, y algunos expertos aseguran que eran más comunes de los que imaginamos, que podrían haberlas tenido especímenes en las que no se les ha representado. El Dromeosaurio las poseía de acuerdo a sus fósiles.
+
+<p align="center"><img src="./assets/image08.png"></p>
+
+Estas primeras plumas no tenían la finalidad de hacer que volaran. En realidad aparecieron para ayudarlos a regular la temperatura, proveer camuflaje y equilibrio cuando cuando se desplazaban corriendo.
+
+## El dinosaurios más grande
+
+Siendo criaturas gigantes en comparación con nosotros, es lógico preguntarse cuál era el más grande de todos. Uno de los que podría tener el primer puesto es el _Argentinosaurus_ que se descubrió en 1987 en Argentina. Tenía unos 40 metros de altura y su peso rondaba en las 100 toneladas.
+
+<p align="center"><img src="./assets/image09.png"></p>
+
+## ¿De dónde proviene el término dinosaurio?
+
+El nombre dinosaurio (del clado dinosaurio) fue asignado en 1842 por el anatomista inglés Richard Owen. Fue el que hizo la primera descripción formal de sus descubrimiento conocidos como Claideidon y Cetiosaurus.
+
+Propuso este término para cubrir la necesidad de designar a los gigantes extintos conocidos como _Megalosaurus_, _Hyalaeosaurus_ e _Iguanodón_, cuyos restos fosilizados se habían encontrado en Inglaterra.
+
+Proviene del griego _deinos_ que significa _terriblemente grande_ _sauros_ que quiere decir _reptil_ o _lagarto_. De ahí la palabra dinosaurio.
+
+Así se comenzaron a llamar a los reptiles gigantes terrestres con cinco vértebras en sus caderas,lo que los diferenciaba de otros reptiles que tenían solamente dos. Además mantenían sus extremidades bajo el cuerpo.
+
+El clado dinosauria hoy está conformado por 800 nombres estandares y unas 1000 especies. Y lad investigaciones continuad siguen sumando más nombres y teorías sobre cómo vivieron y qué características tenían.
