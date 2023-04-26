@@ -142,4 +142,22 @@ Proviene del griego _deinos_ que significa _terriblemente grande_ _sauros_ que q
 
 Así se comenzaron a llamar a los reptiles gigantes terrestres con cinco vértebras en sus caderas,lo que los diferenciaba de otros reptiles que tenían solamente dos. Además mantenían sus extremidades bajo el cuerpo.
 
-El clado dinosauria hoy está conformado por 800 nombres estandares y unas 1000 especies. Y lad investigaciones continuad siguen sumando más nombres y teorías sobre cómo vivieron y qué características tenían.
+El clado dinosauria hoy está conformado por 800 nombres estándares y unas 1000 especies. Y lado investigaciones continuad siguen sumando más nombres y teorías sobre cómo vivieron y qué características tenían.
+
+## Estudio de sus fósiles
+
+Todo lo que sabemos sobre los dinosaurios es a través de sus restos fósiles. Estos son hallazgos de huesos o de materia biológica que bajo condiciones especiales llamadas fosilización han persistido hasta nuestros días.
+
+<p align="center"><img src="./assets/image10.png"></p>
+
+Hay un registro fósil extenso que da cuenta de la diversidad, de la forma de vida y de las adaptaciones que tuvieron que tener para sobrevivir. Generalmente se encuentran atascados en rocas sedimentarias.
+
+Además se pueden encontrar con la abundancia suficiente para saber que eran los seres dominantes durante el Mesozoico. Y aun así lo que hoy hemos encontrado en sólo una pequeña parte de la gran variedad que debió haber existido entonces...
+
+## La visión de los dinosaurios en otros tiempos
+
+Richard Owen fue el primero que hizo la descripción formal de un dinosaurio dándoles nombres y características definidas. Pero no era la primera vez que se daba con sus huesos enormes. Sólo que no había habido hasta entonces una forma de entender lo que eran.
+
+Ahora se concluye que las leyendas grecorromanas sobre grifos en el siglo VII (a.c.) se inspiraron en el hallazgo de proteceratópsicos en Altai, Mongolia. En 1676 Robert Plot en la Universidad de Oxford incluyó en un ensayo de historia natural el dibujo de lo que parecía el fémur de un dinosaurio. Erróneamente pensó que era de un elefante de la era romana.
+
+En Nueva Jersey en el siglo XVIII se hallaron restos fósiles y fueron discutidos en la Sociedad Filosófica de Estados Unidos en Filadelfia. E incluso Lewis y Clarke dieron con huesos de dinosaurios en el oeste de este país.
