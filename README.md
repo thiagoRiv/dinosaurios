@@ -161,3 +161,21 @@ Richard Owen fue el primero que hizo la descripción formal de un dinosaurio dá
 Ahora se concluye que las leyendas grecorromanas sobre grifos en el siglo VII (a.c.) se inspiraron en el hallazgo de proteceratópsicos en Altai, Mongolia. En 1676 Robert Plot en la Universidad de Oxford incluyó en un ensayo de historia natural el dibujo de lo que parecía el fémur de un dinosaurio. Erróneamente pensó que era de un elefante de la era romana.
 
 En Nueva Jersey en el siglo XVIII se hallaron restos fósiles y fueron discutidos en la Sociedad Filosófica de Estados Unidos en Filadelfia. E incluso Lewis y Clarke dieron con huesos de dinosaurios en el oeste de este país.
+
+Además Solomon Ellsworth Jr, encontró en 1818 fósiles, cuando excavaba en si granja en Windsor en Connecticut. Hay registros confiables de esto en el _American Journal of Science and Arts_ de 1820.
+
+Ese mismo año en el sur de Inglaterra el clérigo William Buckland describió la mandíbula dentada del Megalusaurio. A esto se suma el médico Gideon Mantel quien hizo lo mismo con respeto a un Iguanodonte.
+
+<p align="center"><img src="./assets/image11.png"></p>
+
+En 1934 fue encontrado el Iguanodonte de Maidstone. Era un esqueleto parcial hallado en Brighton, en el bosque de Tillgate.
+
+## ¿En qué año existieron los dinosaurios?
+
+Tal como antes expresamos, los dinosaurios vivieron durante la mayor parte de la era Mesozoica.Esto constituyó un período que va desde los 252 millones de años a los 66 millones de años. Proviene de pequeños ancestros o dinosauriomorfos del Triásico que lograron prosperar en un clima duro y seco.
+
+No dominaron de inmediato. Primero tuvieron una dura competencia de los arcosaurios que antecedieron a los cocodrilos, y que fueron los gobernantes durante decenas de millones de años.
+
+La tierra comenzó a cambiar profundamente con erupciones volcánicas que entraron en erupción provocando el calentamiento global y un evento de extinción masiva. Esto permitió que los dinosaurios tuvieran el campo libre para crecer y convertirse en lo amos durante el período Jurásico.
+
+Un ejemplo de esto es el Vouivria damparisensis que era un titanosaurio antiguo, que se
