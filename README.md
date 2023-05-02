@@ -195,3 +195,19 @@ En el cráter Chicxulub hay evidencia de la existencia del cuarzo y de pequeñas
 Cuando se trata de pensar en dinosaurios que pudiesen haber sobrevivido hasta el día de hoy, invariablemente se nombra a las aves. Son el grupo que ha descendido de ellos debido a que tienen un ancestro en común.
 
 Fuera de esto no aparece evidencia científica de que haya supervivientes de Tyranosaurus rex, Triceratops, Velociraptor, Sterosaurus o Apatosaurus. Se extinguieron junto a todos los especímenes no aviares unos 65 millones de años atrás.
+
+Por eso los expertos creen que aves evolucionaron de los dinosaurios. En el siglo XIX los científicos hallaron los restos del restos del Archaeopteryx, que tenía mucho en común con un pájaro. Esto motivó que incluso al día de hoy, los investigadores sigan trabajando para cerrar la brecha entre los antiguos reptiles y las aves modernas.
+
+<p align="center"><img src="./assets/image13.png"></p>
+
+## Características del Archaeopteryx
+
+Los análisis mostraron que tenía tanto de los dinosaurios como de las aves. Poseía una dentadura completa, una cola larga y agarre en sus alas. La diferencia residía en que sus dedos eran reducidos. Se cree que este espécimen que vivió hace 150 millones de años fue el primer pájaro, como se lo conoce hoy.
+
+<p align="center"><img src="./assets/image14.png"></p>
+
+Después se hicieron hallazgos de fósiles de otro tipo de dinosaurios que tenían mucho en común con las aves. Esto afirmó la posibilidad de que las aves modernas provinieran de los dinosaurios.
+
+Concretamente habrían evolucionado de un grupo de dinosaurio llamado Terópodo maniraptores, que incluía a muchos pequeños carnívoros. Este habría comprendido también al Velociraptor que a diferencia de lo que conoces de las películas, se piensa que era pequeño y que y posiblemente no era tan feroz.
+
+También hay que destacar que los terópodos maniraptoranos también pusieron huevos y en maneras muy similares a cómo lo hacen las aves en la actualidad. Dichos huevos además eran muy parecidos a los de los pájaros.
