@@ -178,4 +178,20 @@ No dominaron de inmediato. Primero tuvieron una dura competencia de los arcosaur
 
 La tierra comenzó a cambiar profundamente con erupciones volcánicas que entraron en erupción provocando el calentamiento global y un evento de extinción masiva. Esto permitió que los dinosaurios tuvieran el campo libre para crecer y convertirse en lo amos durante el período Jurásico.
 
-Un ejemplo de esto es el Vouivria damparisensis que era un titanosaurio antiguo, que se
+Un ejemplo de esto es el Vouivria damparisensis que era un titanosaurio antiguo, que se calcula vivió hace 160 millones de años. Pesaba unas 15 toneladas y medía 15 metros. En este tipo también prevalecieron los Brontosaurus, Brachiosaurus, Stegosaurus y Diplodocus.
+
+El surgimiento de plantas floridas permitió que aparecieran dinosaurios como el Archaeopteryx. Además el dominio de los dinosaurios continuó mientras se producía la expansión de la Pangea, que dio lugar a la distribución de los continentes Prácticamente cómo las conocemos hoy.
+
+<p align="center"><img src="./assets/image12.png"></p>
+
+Surgieron así dinosaurios como el Tyrannosaurus rex, el Velociraptor, el Spinosaurus y el Triceratops. También surgió el Argentinosaurus durante el Cretácico Terciario.
+
+Todo habría terminado cuando un asteroide de 10 kilómetros de longitud chocó en contra de la Tierra. Dejó un impacto de 180 km de diámetro que al día de hoy puede observarse en Yucatán, México.
+
+En el cráter Chicxulub hay evidencia de la existencia del cuarzo y de pequeñas esferas de vidrio llamadas tectitas. Estas se forman cuando la roca se vaporiza y se enfrían rápidamente. Son una pista geológica muy firme de que una roca espacial cayó ahí con una gran fuerza.
+
+## ¿Existen dinosaurios reales en la actualidad?
+
+Cuando se trata de pensar en dinosaurios que pudiesen haber sobrevivido hasta el día de hoy, invariablemente se nombra a las aves. Son el grupo que ha descendido de ellos debido a que tienen un ancestro en común.
+
+Fuera de esto no aparece evidencia científica de que haya supervivientes de Tyranosaurus rex, Triceratops, Velociraptor, Sterosaurus o Apatosaurus. Se extinguieron junto a todos los especímenes no aviares unos 65 millones de años atrás.
