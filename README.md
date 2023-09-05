@@ -211,3 +211,21 @@ Después se hicieron hallazgos de fósiles de otro tipo de dinosaurios que tení
 Concretamente habrían evolucionado de un grupo de dinosaurio llamado Terópodo maniraptores, que incluía a muchos pequeños carnívoros. Este habría comprendido también al Velociraptor que a diferencia de lo que conoces de las películas, se piensa que era pequeño y que y posiblemente no era tan feroz.
 
 También hay que destacar que los terópodos maniraptoranos también pusieron huevos y en maneras muy similares a cómo lo hacen las aves en la actualidad. Dichos huevos además eran muy parecidos a los de los pájaros.
+
+A esto se suma la evidencia de que estos maniraptoranos tenían plumas, lo que derriba la creencia de que solamente las aves las había desarrollado. Esto cambia el panorama e incluso suma la idea de que los dinosaurios también podrían haber volado, en algunos casos.
+
+## Analizando creencias impensadas
+
+Por supuesto ante algunos misterios nunca confirmados en el mundo, siempre hay defensores de teorías improbables. Algunos son los criptozoólogos quienes tratan de probar que aún existen animales extintos y los creacionistas quienes apoyan la existencia de la vida en base a fundamentos religiosos.
+
+A esto se suma la imposibilidad científica de demostrar un hecho negativo en el terreno de la ciencia, es un sentido 100% absoluto. Es decir nadie puede probar que los Tyranosaurus rex desaparecieron millones de años atrás.
+
+Podría existir la posibilidad realmente ínfima de que estén cazando felizmente y reproduciéndose en una versión remota, en una isla aún no descubierta. Pero es un hecho prácticamente imposible.
+
+A esto hay que sumar la aparición de un ser prehistórico que se creía desaparecido. Se trata del famoso pez Celacanto que se descubrió que aún estaba vivo en el año 1938. Se pensaba que era parte de la fauna que había vivido en el Cretácico, pero resultó que aún existe. Es un evento que ha hecho que la comunidad científica deba replantearse lo que se entiende como extinción.
+
+No obstante, esto no cambia la visión general que se tiene sobre la supervivencia de animales y el cómo no debe confundirse con hechos no comprobados.
+
+## Criaturas famosas ¿dinosaurios vivos?
+
+Lo sucedido con el celacanto ha avivado la desconfianza de los criptozoólogos modernos quienes piensan que le llamado Monstruo del Lago Ness (del que no se tiene prueba real de su existencia) es en realidad un plesiosaurio.
