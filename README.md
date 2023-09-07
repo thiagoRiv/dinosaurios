@@ -229,3 +229,23 @@ No obstante, esto no cambia la visión general que se tiene sobre la supervivenc
 ## Criaturas famosas ¿dinosaurios vivos?
 
 Lo sucedido con el celacanto ha avivado la desconfianza de los criptozoólogos modernos quienes piensan que le llamado Monstruo del Lago Ness (del que no se tiene prueba real de su existencia) es en realidad un plesiosaurio.
+
+<p align="center">
+    <img src="./assets/image15.png" />
+</p>
+
+Esto también los ha llevado a pensar que el mítico Yeti es un Gigantopithecus aún con la vida. Los creacionistas también son adeptos a querer demostrar que aún existen dinosaurios, para invalidar los fundamentos de la evolución darwiniana.
+
+Pero los hechos es que en más de una ocasión científicos renombrados han ido tras las pistas de estos monstruos, de los que sólo se tienen rumores y conjeturas. Y por más que lo han tratado no han dado con nada que compruebe su existencia.
+
+El problema de probar un resultado negativo aún existe, pero en realidad hace que empíricamente apoye el hecho de que ha habido una extinción total. Esto sucede con el Mokele-mbembe que en teoría es un saurópodo africano, que no se ha comprobado de manera concluyente.
+
+Los criptozoólogos y creacionistas afirman que los "dragones" de los que se habla en los cuentos de hadas e incluso en la biblia eran en realidad dinosaurios. Pero hay más posibilidades de que dichas historias se hayan inspirado en serpientes y en cocodrilos.
+
+### ¿Por qué los dinosaurios no han sobrevivido hasta el día de hoy?
+
+Puede que queramos pensar que los dinosaurios estén vivos en la actualidad, pero la lógica indica lo contrario. Pensemos en el Mokele-mbembe, si aún estuviera vivo, sería por sí mismo un Apatosaurio de unas 20 toneladas.
+
+Para que su existencia fuese real debería haber una población con una considerable cantidad de individuos. Tendría que existir un grupo de reproductores de docenas o centenas de especímenes. De haber tantos dinosaurios vagando por la cuenca del congo, ¿Cómo es que nadie los ha visto y les ha tomado una foto?
+
+A esto se suman las condiciones necesarias para su supervivencia en la actualidad. El clima y la geología en los que prosperan ya es muy diferente de los que existían unos 100 millones de años atrás.
