@@ -249,3 +249,25 @@ Puede que queramos pensar que los dinosaurios estén vivos en la actualidad, per
 Para que su existencia fuese real debería haber una población con una considerable cantidad de individuos. Tendría que existir un grupo de reproductores de docenas o centenas de especímenes. De haber tantos dinosaurios vagando por la cuenca del congo, ¿Cómo es que nadie los ha visto y les ha tomado una foto?
 
 A esto se suman las condiciones necesarias para su supervivencia en la actualidad. El clima y la geología en los que prosperan ya es muy diferente de los que existían unos 100 millones de años atrás.
+
+Los dinosaurios progresaron en condiciones extremadamente cálidas y húmedas. Además su alimentación en la era Mezosoica era en base a una cantidad abundad de cícadas, ginkgos y coníferas, que no abundan en los ecosistemas actuales.
+
+Y si no hay suficiente alimento para los dinosaurios herbívoros que eran la base de la alimentación de los carnívoros, esto hace que sea imposible dar con un Allosaurus vivo.
+
+## Enciclopedia de los dinosaurios
+
+Hoy en día dispones de muchas fuentes para conocer sobre los dinosaurios. Puedes tener una enciclopedia, un hermoso libro con ilustraciones y mucha información sobre los dinosaurios. Puedes tener una enciclopedia, un hermoso libro con ilustraciones y mucha información sobre estos increíbles animales prehistóricos. Suelesn detallar a los más popularesy describir sus características, lo que comían y lo que podían hacer.
+
+puedes buscar en Internet cobre cada dinosaurio que te haya llamado la atención. Por eso hemos apartado a continuación información sobre los más reconocidos, para satisfacer tu curiosidad. Son los que suelen despertar más la imaginación en todo el mundo.
+
+### Tyranosaurus rex
+
+<p align="center">
+    <img src="./assets/image16.png">
+</p>
+
+El recorrido comienza con el T-Rex el que siempre llega a la mentede todos. Es el parámetro con el que comparamos a los más pequeños o a los más grandes. Es infaltable en los filmes sobre dinosaurios.
+
+Abundan los fósiles en los que se los puede ver sobre sus dos patas traseras y con sus brazos cortos extendidos. Algunos de los más famosos están en el Museo Field de Historia Natural de Chicago, en el Museo de Historia Natural de Nueva York en el Museo de Historia Natural Black Hills de Dakota del Sur.
+
+Medía unos 13 metros de alto que incluía una cabeza de 1,5 metros con dientes afilados como navajas. Pesaba alrededor de 8 toneladas y se piensa que podía correr tras sus presas con gran efectividad
