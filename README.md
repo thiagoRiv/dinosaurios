@@ -266,8 +266,42 @@ puedes buscar en Internet cobre cada dinosaurio que te haya llamado la atención
     <img src="./assets/image16.png">
 </p>
 
-El recorrido comienza con el T-Rex el que siempre llega a la mentede todos. Es el parámetro con el que comparamos a los más pequeños o a los más grandes. Es infaltable en los filmes sobre dinosaurios.
+El recorrido comienza con el T-Rex el que siempre llega a la mente de todos. Es el parámetro con el que comparamos a los más pequeños o a los más grandes. Es infaltable en los filmes sobre dinosaurios.
 
 Abundan los fósiles en los que se los puede ver sobre sus dos patas traseras y con sus brazos cortos extendidos. Algunos de los más famosos están en el Museo Field de Historia Natural de Chicago, en el Museo de Historia Natural de Nueva York en el Museo de Historia Natural Black Hills de Dakota del Sur.
 
 Medía unos 13 metros de alto que incluía una cabeza de 1,5 metros con dientes afilados como navajas. Pesaba alrededor de 8 toneladas y se piensa que podía correr tras sus presas con gran efectividad
+
+### Triceratops
+
+<p align="center">
+    <img src="./assets/image17.png">
+</p>
+
+Como su nombre los sugiere el Triceratops tenía 3 cuernos en la cara y un pico en la boca similar al de un loro. También Poseía una volanta en la parte posterior de la cabeza. Comía plantas y usaba sus tres cuernos, tanto para el cortejo reproductivo como para hacerle frente a los Tyranosaurus rex.
+
+Existió a finales del Cretácico y sus especímenes adultos medía unos 8 metros de largo, 3 metros de alto y pesaban unas 12 toneladas.
+
+Los fósiles de Triceratops siempre llaman la atención en lugares como el Museo Americano de Historia Natural en Nueva York. Este en particular presenta rastros de una lesión que posiblemente sufrió a mano de otro Triceratops.
+
+En cambio en el Museo Smithsoniano reside uno al que han apodado Hatcher que recibe muchas visitas desde 1905.
+
+### Velociraptor
+
+<p align="center">
+    <img src="./assets/image18.png">
+</p>
+
+El nombre Velociraptor significa _ladrón veloz_. Se calcula que medía de 1 a 2 metros de largo. Tenía una inteligencia muy desarrollada y corría sobre sus dos patas traseras a unos 65 km por hora. Esto era ideal para alcanzar sus presas.
+
+Ha fósiles que se hallaron en China, en el desierto de Gobi en Mongolia y en Rusia. Todos muestran dientes afilados y garras en forma de hoz que dan cuenta de su capacidad cazadora.
+
+### Estegosaurio
+
+<p align="center">
+    <img src="./assets/image19.png">
+</p>
+
+El término Estegosaurio significa _lagarto de techo_. Tenía placas en su columna dorsal que medían 60 centímetros de alto y ancho. Se cree que podrían haber sido de colores brillantes y que podían moverse.
+
+Las púas de su cola podrían haber sido horizontales en lugar de verticales, lo que le habría permitido defenderse de los depredadores. Era un herbívoro pacífico que habitaba llanuras y valles.
