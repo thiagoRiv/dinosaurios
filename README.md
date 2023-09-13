@@ -305,3 +305,43 @@ Ha fósiles que se hallaron en China, en el desierto de Gobi en Mongolia y en Ru
 El término Estegosaurio significa _lagarto de techo_. Tenía placas en su columna dorsal que medían 60 centímetros de alto y ancho. Se cree que podrían haber sido de colores brillantes y que podían moverse.
 
 Las púas de su cola podrían haber sido horizontales en lugar de verticales, lo que le habría permitido defenderse de los depredadores. Era un herbívoro pacífico que habitaba llanuras y valles.
+
+### Espinosaurio
+
+<p align="center">
+    <img src="./assets/image20.png">
+</p>
+
+El Espinosaurio medía unos 18 metros de largo y pesaba un poco más que el t-rex. Poseía una Placa dorsal de 1,6 metros en su parte más ancha, similar a un abanico, de la cual aún no hay un acuerdo sobre cuál era su función.
+
+Los fósiles descubiertos en Egipto y Marruecos indicarían que era un habitante de los ríos y que se alimentaba mayormente de peces. Incluso suponen que era unos de los primeros dinosaurios que podía nadar.
+
+Sus patas traseras le permitían alcanzar una velocidad de 24 kilómetros por hora.
+
+### Arqueoptérix
+
+<p align="center">
+    <img src="./assets/image21.png">
+</p>
+
+Los nombramos antes como _Archaeopteryx_, y su nombre significa _ala antigua_. Gracias a este se sabe que las aves vienen de los dinosaurios. Tenía alas, pero aún no afirman si podía volar o al menos planear.
+
+Las reconstrucciones indican un aspecto aterrador y dientes afilados como navajas. Uno de los fósiles más famosas fue encontrado en Alemania y ahora forma parte de la muestra del Centro de Dinosaurios de Wyoming en Thermopolis, Wyoming.
+
+### Braquiosaurio
+
+<p align="center">
+    <img src="./assets/image21.png">
+</p>
+
+Con base en los fósiles hallados en Argelia, Portugal, EE.UU. y Tanzania se cree que un Brachiosaurus adulto medía casi 25 metros de largo y que tenia 10 metros en su parte más alta. Se estima además que pesaba unas 62 toneladaa.
+
+### Alosaurio
+
+<p align="center">
+    <img src="./assets/image21.png">
+</p>
+
+Su tamaño era un poco más pequeño que el de un Tyrannosaurus rex, pero lo compensaba con más velocidad y con sus profundamente aserrados. Era un depredador versátil, que incluso podía cazar en manada.
+
+Se han encontrado fósiles en Utah, Wyoming y Colorado en EE.UU. sin embargo, también ha habido hallazgos en Siberia, Portugal y Tanzania. Se convirtió en un símbolo del Estado de Utah en dónde se encontraron 46 de ellos en la cantera Cleveland-Llyd.
