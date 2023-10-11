@@ -331,7 +331,7 @@ Las reconstrucciones indican un aspecto aterrador y dientes afilados como navaja
 ### Braquiosaurio
 
 <p align="center">
-    <img src="./assets/image21.png">
+    <img src="./assets/image22.png">
 </p>
 
 Con base en los fósiles hallados en Argelia, Portugal, EE.UU. y Tanzania se cree que un Brachiosaurus adulto medía casi 25 metros de largo y que tenia 10 metros en su parte más alta. Se estima además que pesaba unas 62 toneladaa.
@@ -339,9 +339,45 @@ Con base en los fósiles hallados en Argelia, Portugal, EE.UU. y Tanzania se cre
 ### Alosaurio
 
 <p align="center">
-    <img src="./assets/image21.png">
+    <img src="./assets/image23.png">
 </p>
 
 Su tamaño era un poco más pequeño que el de un Tyrannosaurus rex, pero lo compensaba con más velocidad y con sus profundamente aserrados. Era un depredador versátil, que incluso podía cazar en manada.
 
-Se han encontrado fósiles en Utah, Wyoming y Colorado en EE.UU. sin embargo, también ha habido hallazgos en Siberia, Portugal y Tanzania. Se convirtió en un símbolo del Estado de Utah en dónde se encontraron 46 de ellos en la cantera Cleveland-Llyd.
+Se han encontrado fósiles en Utah, Wyoming y Colorado en EE.UU. Sin embargo, también ha habido hallazgos en Siberia, Portugal y Tanzania. Se convirtió en un símbolo del Estado de Utah en dónde se encontraron 46 de ellos en la cantera Cleveland-Lloyd.
+
+### Apatosaurio
+
+<p align="center">
+    <img src="./assets/image24.png">
+</p>
+
+El Apatosaurio es conocido como el Brontosaurio de Los Picapiedras. Pero hay que destacar que es uno de los saurópodos del que se detiene más información, que habitó el Jurásico Tardío. Era enorme y es una atracción estrella en el Museo Field de Historia Natural de Chicago.
+
+Provenía de huevos de 30 centímetros de ancho y creció hasta alcanzar de 21 a 27 metros de alto. Tenía un cuello muy alto, que se elevaba sobre su cuerpo ancho, por lo que podía alimentarse de un follaje realmente muy alto.
+
+Los especialistas aún no saben determinar qué propósito tenía su cola de 25 metros de largo, que era parecida a un látigo. Algunos de los fósiles más grandes están presentes en Nuevo México, Wyoming, Colorado u Oklahoma.
+
+### Dilofosaurio
+
+<p align="center">
+    <img src="./assets/image25.png">
+</p>
+
+Algunos restos fósiles de este dinosaurio fueron encontrados en China y en América del Norte. Se llamó Dilophosaurus que significa _lagarto de doble cresta_. Medía 6 metros de largo y pesaba casi 450 kilos.
+
+Poseía una boca repleta de dientes afilados. Se estima que eran carroñeros y además cazaban pequeños peces y animales.
+
+## ¿Dónde vivían los dinosaurios?
+
+Si bien en un principio todo territorio como lo conocemos actualmente estaba unificado en la Pangea, a medida que se fue separando aparecieron diversos ecosistemas, que tenían dinosaurios característicos en cada caso. A continuación conoserás 10 panoramas variados, y las especies los habitaban.
+
+### Llanuras
+
+<p align="center">
+    <img src="./assets/image26.png">
+</p>
+
+Durante el período Cretácico surgieron llanuras similares a las que conocemos ahora agitadas por el viento. La diferencia era la vegetación que entonces no tenía pasturas. Lo que abundaba en estas eran los helechos, cícadas y diversas plantas prehistóricas.
+
+Por lo tanto era el lugar predilecto de herbívoros como ornitópodos, ceratópsidos y hadrosaurios. Aunque no faltaban tiranosaurios y otros individuos rapaces que se alimentaba de ellos.
