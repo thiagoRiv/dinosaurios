@@ -14,7 +14,7 @@ Los dinosaurios existieron hace mucho tiempo y ya no están entre nosotros. Y si
 | ![list02](./assets/list02.png) | [**`Eras Geológicas`**](./eras)                  |
 | ![list03](./assets/list03.png) | [**`Clasificación de los dinosaurios`**](./eras) |
 
-El cine ha despertado profundamente nuestra imaginación, haciendo que imaginemos que los tenemos cerca. ¿Acaso no estaría genial ver a un _Tyrannosaurus rex_ en persona? ¿Quién no querría acariciar a un pacífico _Brontosaurus_?
+El cine ha despertado profundamente nuestra imaginación, haciendo que imaginemos que los tenemos cerca. ¿Acaso no estaría genial ver a un _Tyrannosaurus rex_ en persona? ¿Quién no querría acariciar a un pacífico _Brontosaurus_?.
 
 <p align="center"><img src="./assets/image01.png"></p>
 
@@ -381,3 +381,27 @@ Si bien en un principio todo territorio como lo conocemos actualmente estaba uni
 Durante el período Cretácico surgieron llanuras similares a las que conocemos ahora agitadas por el viento. La diferencia era la vegetación que entonces no tenía pasturas. Lo que abundaba en estas eran los helechos, cícadas y diversas plantas prehistóricas.
 
 Por lo tanto era el lugar predilecto de herbívoros como ornitópodos, ceratópsidos y hadrosaurios. Aunque no faltaban tiranosaurios y otros individuos rapaces que se alimentaba de ellos.
+
+### Humedales
+
+Incluso hoy disponemos de estas llanuras bajas, empapadas y llenas de sedimentos de montañas y colinas cercanas. De hecho constituyen hoy gran parte de los que hoy es Europa, en el Cretácico temprano. En este abundaban Hypsilophodones, Iguanodines y Polacanthus. Se alimentaban con versiones primitivas de la hierba cola de caballo.
+
+### Bosques ribereños
+
+Se trataba de bosques con árboles frondosos, que abundaban en vegetación y que crecían a la vera de un pantano o de un río. Producía una gran cantidad de alimento para sus habitantes, aunque a cambio era propenso a inundaciones frecuentes.
+
+Un ejemplo reconocido de este tipo de bioma es la Formación Morrison del Jurásico tardío, en América del Norte. Consiste en un abundante lecho fósil en el que se han hallado terópodos, saurópodo y ornitópodos. Se han encontrado Diplodocus e incluso Allosaurio.
+
+### Bosques pantanosos
+
+En este caso nos referimos a territorios similares al anterior. Es decir a los bosques ribereños. Pero para el final del Cretácico se caracterizaban por abundar en flores y en otraa plantas propias de la evolución tardía.
+
+Esto le proveía una gran nutrición a manada de dinosaurios pico de pato. Servían de alimento para Tiranosaurios y especímenes de Troodon.
+
+### Desiertos
+
+A ninguna forma de vida le resulta fácil vivir en el desierto, y esto también se aplica a los dinosaurios. Sin embargo, el desierto Gobi de Asia Central estaba habitado por Velociraptors, Protoceratops y Oviraptors.
+
+Existen de los fósiles entrelazados de un Protoceratop trabado en pelea con un Velociraptor. Se preservaron muy bien por una tormenta de arena.
+
+A diferencia de lo que se fue el desierto del Sahara entonces era una selva exuberante, por lo que no cuenta para este caso.
