@@ -435,3 +435,39 @@ El confinamiento de millones de años de estas comunidades en las islas no permi
 ### Costas
 
 Hay rastros que prueban que los dinosaurios también habitaron las costas. La prueba de esto son las huellas halladas en el borde Occidental del Mar Interior Occidental, que atravesaba Colorado y Nuevo México. Estas dan la pista de una vasta migración realizada de Norte a Sur, Durante el Cretácico. Lo transitaban en búsqueda de alimentos.
+
+## Cómo eran los dinosaurios
+
+Los paleontólogos no siempre pueden hacer sus investigaciones a través de esqueletos completos o completos en un gran parte. En la mayoría de los casos tienen que estudiar huesos dispersos y no siempre conectados a algo más.
+
+Sin embargo esto no les impide obtener información de cada uno. Cada parte de un dinosaurio puede decir mucho del espécimen del que formaron parte alguna vez.
+
+### Cabeza: detalle de los dientes y del cráneo
+
+<p align="center">
+  <img src="./assets/image28.png">
+</p>
+
+La forma general de una cabeza, el tamaño, la forma y la distribución de sus dientes dan pistas bastante precisas de la dieta que tenían. No en vano, los tiranosaurios poseían dientes afilados, curvados hacia atrás y considerablemente largos. Así aferraban a su presa, por más que se retorciera.
+
+Los herbívoros en cambio podrían tener ornamentaciones extrañas en la cabeza. Ese es el caso de los cuernos y volantes de los Hadrosaurios y los cráneos gruesos de los paquicefalosaurios.
+
+### Cuello: vértebras cervicales
+
+<p align="center">
+  <img src="./assets/image29.png">
+</p>
+
+Los cuellos más interesantes los tienen los Saurópodos que podían tener un volumen de 50 toneladas. Los de los Diplodocus y los Mamenchiasaurus medían entre 6 y 9 metros, y tenían vértebras enormes y un poco livianas, que se intercalaban con bolsas de aires para aligerar la carga en sus corazones.
+
+Su longitud desproporcionada que iba a la par de las vértebras caudales que constituyen sus colas largas. En cuanto a su cabeza y sus hombros.
+
+### Manos y pies: metatarsianos y metacarpianos
+
+<p align="center">
+  <img src="./assets/image30.png">
+</p>
+
+La evolución de hace 400 millones de años les dio a los vertebrados terrestre cinco dedos en sus extremidades. Aunque en los caballos y en muchos otros animales sólo tienen vestigios de este desarrollo.
+
+Los dinosaurios tenían de tres a cinco dedos funcionales en sus extremidades delanteras o traseras. Esta es una información esencial cuando se analizan huellas y marcas de huellas que gocen de un buen estado de conservación.
