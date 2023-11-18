@@ -394,7 +394,7 @@ Un ejemplo reconocido de este tipo de bioma es la Formación Morrison del Jurás
 
 ### Bosques pantanosos
 
-En este caso nos referimos a territorios similares al anterior. Es decir a los bosques ribereños. Pero para el final del Cretácico se caracterizaban por abundar en flores y en otraa plantas propias de la evolución tardía.
+En este caso nos referimos a territorios similares al anterior. Es decir a los bosques ribereños. Pero para el final del Cretácico se caracterizaban por abundar en flores y en otra plantas propias de la evolución tardía.
 
 Esto le proveía una gran nutrición a manada de dinosaurios pico de pato. Servían de alimento para Tiranosaurios y especímenes de Troodon.
 
@@ -405,3 +405,33 @@ A ninguna forma de vida le resulta fácil vivir en el desierto, y esto también 
 Existen de los fósiles entrelazados de un Protoceratop trabado en pelea con un Velociraptor. Se preservaron muy bien por una tormenta de arena.
 
 A diferencia de lo que se fue el desierto del Sahara entonces era una selva exuberante, por lo que no cuenta para este caso.
+
+### Lagunas
+
+<p align="center">
+   <img src="./assets/image27.png">
+</p>
+
+Las lagunas eran grandes masas de agua tibia y calma que aparecían detrás de los arrecifes. No eran más frecuentes que en la actualidad, pero se las tiene muy en cuenta debido al registro elevado de fósiles que suele ofrecer. Esto se debe a que los organismos muertos que se ha n hundido en las las lagunas, se han conservado muy bien a causa del limo.
+
+En Europa están las lagunas prehistóricas más famosas como la de Solnhofen en Alemania, en la que se ha hallado restos de Archaepteryx, Pterosaurios y Compsognathus.
+
+### Territorios polares
+
+Los polos norte y sur eran zonas cálidas durante la era Mesozoica. No obstante, estaba sumidos en la oscuridad una parte del año, tal como sucede en la actualidad. Es por esto que en estas zonas se han hallado dinosaurios como el Leallynasaura que tenía ojos grandes y el Minmi que tenía un cerebro pequeño.
+
+### Ríos y lagos
+
+Los dinosaurios no vivían de hecho en ríos o lagos. Pero sí habitaban sus proximidades, alimentándose con frecuencia de peces. Han mostrado resultados destacados en lo que respecta a su evolución.
+
+El Baryonx y el Suchomimus tenían una alimentación pescetariana, debido a sus hocicos similares al de los cocodrilos. El Spinosaurus también se cuenta entre un dinosaurio semiacuático que habitaba este tipo de paisaje.
+
+### Islas
+
+Los lagos y costas estaban salpicados por islas, incluso 100 millones de años atrás. En la isla Hatzeg de los que hoy es Rumania se han encontrado restos de Titanosaurus enano Magyasaurus, del Ornitópodo primitivo Telmatosaurus y del Ptegosaurio gigante Hatzegopteryix.
+
+El confinamiento de millones de años de estas comunidades en las islas no permitió que se desarrollaran de la misma forma que sus versiones originales.
+
+### Costas
+
+Hay rastros que prueban que los dinosaurios también habitaron las costas. La prueba de esto son las huellas halladas en el borde Occidental del Mar Interior Occidental, que atravesaba Colorado y Nuevo México. Estas dan la pista de una vasta migración realizada de Norte a Sur, Durante el Cretácico. Lo transitaban en búsqueda de alimentos.
