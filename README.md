@@ -471,3 +471,29 @@ Su longitud desproporcionada que iba a la par de las vértebras caudales que con
 La evolución de hace 400 millones de años les dio a los vertebrados terrestre cinco dedos en sus extremidades. Aunque en los caballos y en muchos otros animales sólo tienen vestigios de este desarrollo.
 
 Los dinosaurios tenían de tres a cinco dedos funcionales en sus extremidades delanteras o traseras. Esta es una información esencial cuando se analizan huellas y marcas de huellas que gocen de un buen estado de conservación.
+
+### Pelvis: illium, ischium y pubis
+
+Hay características comunes entre los esqueletos de los seres humanos. En estos últimos las personas poseen un solo hueso sólido en la parte superior del brazo, que se conoce como húmero. También tienen un par de huesos que conforman la parte inferior del brazo, llamados cúbito y radio. Por supuesto cada ejemplo es válido en su propia escala.
+
+Los brazos de los dinosaurios tenían la misma disposición. Los terópodos disponían una postura bípeda, con brazos muy diferentes a sus piernas. El Tyranosaurus rex y el Carnotaurus poseían brazos pequeños e insignificantes, al menos en apariencia. Aún no hay un acuerdo sobre su utilidad. Aunque abundan teorías al respecto.
+
+### Columna vertebral: vértebras dorsales
+
+Los tetrápodos tenían una cintura pélvica conformada por el ilion, el isquion y el pubis. Era el punto en que las piernas se conectan a l tronco en un animal. También contaban con omóplatos que cumplía la misma función en los brazos.
+
+Los huesos pélvicos son vitales para que los paleontólogos distingan a los dinosaurio a los dinosaurios saurisquios que tenían _caderas de lagarto_ o de los ornistiquios que poseían _caderas de pájaro_.
+
+La disposición de los huesos del pubis de los ornistisquios iba hacia abajo y hacia la cola. En los saurisquios estos tenían una orientación horizontal.
+
+### Brazos: húmero, radio y cúbito
+
+Entre las vértebras de un dinosaurio que conformaban el cuello y las vértebras caudales que constituían la cola, estaban las vértebras dorsales. Se Trataba de la columna vertebral. Eran resistentes a la _desarticulación_ y son muy comunes en los registros fósiles.
+
+Además las vértebras de algunos dinosaurios estaban coronadas por extraños _procesos_ Un ejemplo de esto son las espinas neurales con orientación vertical en el spinnosaurus.
+
+### Piernas: Tibia, Fémur y peróne
+
+Las patas de los dinosaurios tenían la misma estructura básica que tienen todos los vertebrados. Poseían un fémur que es un hueso superior de forma alargada y de estructura sólida que se conecta a un de huesos que forman la tibia y el peroné.
+
+Los fémures de los dinosaurios están entre los huesos más grandes excavados por los paleontólogos. Y también son los más grandes en la historia biológica de la tierra.
