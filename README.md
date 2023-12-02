@@ -497,3 +497,33 @@ Además las vértebras de algunos dinosaurios estaban coronadas por extraños _p
 Las patas de los dinosaurios tenían la misma estructura básica que tienen todos los vertebrados. Poseían un fémur que es un hueso superior de forma alargada y de estructura sólida que se conecta a un de huesos que forman la tibia y el peroné.
 
 Los fémures de los dinosaurios están entre los huesos más grandes excavados por los paleontólogos. Y también son los más grandes en la historia biológica de la tierra.
+
+Los de los Saurópodos son casi tan largos como un ser humano en edad adulta. Estos huesos implicaban una longitud de 30 metros y un peso de 50 a 100 toneladas.
+
+### Placas de armadura: osteodermos y escudos
+
+<p align="center">
+  <img src="./assets/image31.png">
+</p>
+
+Los Hadrosaurios y los Ornitópodos protegían generalmente con velocidad, inteligencia y mediante la protección en manada. En cambio los Estegosaurios, Titanosaurios y Anquilosaurios en cambio desarrollaron un blindaje compuesto por placas óseas conocidas como _osteodermos_. Aunque por lo general se los define como escudos.
+
+Este tipo de estructuras están muy bien conservadas en los registros fósiles, con gran parte de los restos del dinosaurio. En el caso de los Estegosaurios, estaban dispuestas a los largo de su espalda.
+
+### Pecho: esternón y clavículas
+
+No todos los dinosaurios poseían esternón o clavículas. En el caso de los Saurópodos parece ser que tenían una combinación de clavículas y costillas flotantes conocidas como _gastralia_, que sostenían la parte superior del tronco.
+
+Se SE piensa que las clavículas de los primeros terópodos menos avanzados se transformaron en fúrculas, que son usuales en los dinosaurios pájaros, rapaces y tiranosaurios en el Cretácico tardío. Esto comprueba que las aves descienden de los dinosaurios.
+
+### Cola: vértebras caudales
+
+<p align="center">
+  <img src="./assets/image32.png">
+</p>
+
+Todos los dinosaurios poseían vértebras caudales, más conocidas como colas. Pero si se compara un Apatosaurio con un Corynthosaurus y con un Ankylosaurus, se puede reconocer diferencias en su flexibilidad, largo, ornamentación y forma.
+
+Las vértebras caudales están bien representadas en el registros fósil, como estructuras asociadas que dicen mucho de un dinosaurio en cuestión.
+
+Las colas de los Hadrosaurios y de los Ornitomímidos tenían ligamentos duros para ayudarles a mantener el equilibrio. Los Anquilisaurios y Estegosaurios tenían colas flexibles y oscilantes rematadas con ligamentos similares a masas o garrotes.
