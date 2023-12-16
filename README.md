@@ -527,3 +527,15 @@ Todos los dinosaurios poseían vértebras caudales, más conocidas como colas. P
 Las vértebras caudales están bien representadas en el registros fósil, como estructuras asociadas que dicen mucho de un dinosaurio en cuestión.
 
 Las colas de los Hadrosaurios y de los Ornitomímidos tenían ligamentos duros para ayudarles a mantener el equilibrio. Los Anquilisaurios y Estegosaurios tenían colas flexibles y oscilantes rematadas con ligamentos similares a masas o garrotes.
+
+## Características de los dinosaurio
+
+Se trata de una criatura compleja cuyas características ya hemos especificado. Recordemos a continuación algunas de las más importantes.
+
+<p align="center">
+  <img src="./assets/image33.png">
+</p>
+
+### ¿De qué color eran?
+
+Aunque parezca que sabemos cómo era un dinosaurio al ver una ilustración en un libro, es posible que en realidad esa no sea su apariencia exacta. Las imágenes que conocemos de estos especímenes suelen desarrollarse bajo interpretaciones anticuadas.
